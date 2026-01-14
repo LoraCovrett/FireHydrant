@@ -1,0 +1,1000 @@
+[{"objectid":"516","assetid":"347610","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"169","latitude":"39.0846873165033","longitude":"-84.4138717676512","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"517","assetid":"329552","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"121","latitude":"39.2188333178081","longitude":"-84.6260323225217","neighborhood":"N/A"}
+,{"objectid":"518","assetid":"323239","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"153","latitude":"39.2806147239592","longitude":"-84.4106963464055","neighborhood":"N/A"}
+,{"objectid":"519","assetid":"347697","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"84","latitude":"39.0805533596074","longitude":"-84.5872666394901","neighborhood":"RIVERSIDE"}
+,{"objectid":"520","assetid":"338698","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"119","latitude":"39.1479518027579","longitude":"-84.5145065302199","neighborhood":"CLIFTON"}
+,{"objectid":"521","assetid":"1330159","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"155","latitude":"39.2767080928867","longitude":"-84.4114573450049","neighborhood":"N/A"}
+,{"objectid":"522","assetid":"456877","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.2154237153632","longitude":"-84.5423157740459","neighborhood":"N/A"}
+,{"objectid":"523","assetid":"377021","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"74","latitude":"39.364299711334","longitude":"-84.2925224889704","neighborhood":"N/A"}
+,{"objectid":"524","assetid":"329403","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"77","latitude":"39.2204230874476","longitude":"-84.6154546678357","neighborhood":"N/A"}
+,{"objectid":"525","assetid":"320931","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"89","latitude":"39.3024261187294","longitude":"-84.5041909821458","neighborhood":"N/A"}
+,{"objectid":"526","assetid":"348492","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"74","latitude":"39.0709311257798","longitude":"-84.3773315413217","neighborhood":"N/A"}
+,{"objectid":"527","assetid":"335416","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"66","latitude":"39.1718443089281","longitude":"-84.6198749948695","neighborhood":"N/A"}
+,{"objectid":"528","assetid":"2206236","lifecyclestatus":"AC","servicearea":"FS","staticpressure":"70","latitude":"39.2776453988587","longitude":"-84.6660734670916","neighborhood":"N/A"}
+,{"objectid":"529","assetid":"340139","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"87","latitude":"39.1401166093969","longitude":"-84.4789825028692","neighborhood":"EVANSTON"}
+,{"objectid":"530","assetid":"347970","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"94","latitude":"39.0806109427071","longitude":"-84.360841373183","neighborhood":"N/A"}
+,{"objectid":"531","assetid":"1349415","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"66","latitude":"39.2246009154184","longitude":"-84.7333035675532","neighborhood":"N/A"}
+,{"objectid":"532","assetid":"344692","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"141","latitude":"39.1117444604678","longitude":"-84.3848355953589","neighborhood":"N/A"}
+,{"objectid":"533","assetid":"552802","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"147","latitude":"39.154882181164","longitude":"-84.4275382222134","neighborhood":"OAKLEY"}
+,{"objectid":"534","assetid":"326517","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"100","latitude":"39.2461708784593","longitude":"-84.5746211930989","neighborhood":"N/A"}
+,{"objectid":"535","assetid":"347169","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"110","latitude":"39.0909559461433","longitude":"-84.3713464135321","neighborhood":"N/A"}
+,{"objectid":"536","assetid":"325971","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"121","latitude":"39.2553506474294","longitude":"-84.3120025447827","neighborhood":"N/A"}
+,{"objectid":"537","assetid":"2048577","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"63","latitude":"39.1965201125426","longitude":"-84.5499235835409","neighborhood":"COLLEGE HILL"}
+,{"objectid":"538","assetid":"462040","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"75","latitude":"39.2332158281149","longitude":"-84.3496161650115","neighborhood":"N/A"}
+,{"objectid":"539","assetid":"1335009","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"99","latitude":"39.0786367132663","longitude":"-84.3750975450333","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"540","assetid":"322727","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"93","latitude":"39.2842557398881","longitude":"-84.5080954997607","neighborhood":"N/A"}
+,{"objectid":"541","assetid":"324015","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"56","latitude":"39.2728397120985","longitude":"-84.3608923296611","neighborhood":"N/A"}
+,{"objectid":"542","assetid":"339292","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"91","latitude":"39.1443442686985","longitude":"-84.5000993146632","neighborhood":"AVONDALE"}
+,{"objectid":"543","assetid":"338765","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"149","latitude":"39.1471804258731","longitude":"-84.5298840210914","neighborhood":"CLIFTON"}
+,{"objectid":"544","assetid":"324388","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"113","latitude":"39.2701113958101","longitude":"-84.313436928717","neighborhood":"N/A"}
+,{"objectid":"545","assetid":"324152","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"149","latitude":"39.2707345705276","longitude":"-84.4080506115148","neighborhood":"N/A"}
+,{"objectid":"546","assetid":"340068","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"149","latitude":"39.1417104762719","longitude":"-84.4107411453564","neighborhood":"HYDE PARK"}
+,{"objectid":"547","assetid":"325050","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"143","latitude":"39.2579765490017","longitude":"-84.6553835947496","neighborhood":"N/A"}
+,{"objectid":"548","assetid":"326727","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"128","latitude":"39.2449531679209","longitude":"-84.5470141299835","neighborhood":"N/A"}
+,{"objectid":"549","assetid":"332268","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"161","latitude":"39.2018268563653","longitude":"-84.4525977636902","neighborhood":"ROSELAWN"}
+,{"objectid":"550","assetid":"377033","lifecyclestatus":"AC","servicearea":"MR","staticpressure":"91","latitude":"39.35170200443","longitude":"-84.2820680564956","neighborhood":"N/A"}
+,{"objectid":"551","assetid":"347536","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"133","latitude":"39.0863311251666","longitude":"-84.3707058584137","neighborhood":"N/A"}
+,{"objectid":"552","assetid":"2048158","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"73","latitude":"39.362870687707","longitude":"-84.2799796263299","neighborhood":"N/A"}
+,{"objectid":"553","assetid":"337882","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.1512923253724","longitude":"-84.6240819101714","neighborhood":"N/A"}
+,{"objectid":"554","assetid":"325573","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"100","latitude":"39.257054238898","longitude":"-84.4146047114554","neighborhood":"N/A"}
+,{"objectid":"555","assetid":"323593","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.2739076725304","longitude":"-84.5507894726236","neighborhood":"N/A"}
+,{"objectid":"556","assetid":"341269","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"62","latitude":"39.1311580469857","longitude":"-84.5452701270523","neighborhood":"NORTH FAIRMOUNT"}
+,{"objectid":"557","assetid":"322130","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"75","latitude":"39.2888555169764","longitude":"-84.5073798631107","neighborhood":"N/A"}
+,{"objectid":"558","assetid":"323939","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"85","latitude":"39.2730721088562","longitude":"-84.3888908614695","neighborhood":"N/A"}
+,{"objectid":"559","assetid":"331537","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"67","latitude":"39.2047313530893","longitude":"-84.595498636574","neighborhood":"N/A"}
+,{"objectid":"560","assetid":"323866","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"62","latitude":"39.2739762890747","longitude":"-84.3751568608436","neighborhood":"N/A"}
+,{"objectid":"561","assetid":"336485","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.1623783594677","longitude":"-84.6297118660028","neighborhood":"N/A"}
+,{"objectid":"562","assetid":"360150","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.1090524794926","longitude":"-84.588045125225","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"563","assetid":"337466","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"162","latitude":"39.1579382846218","longitude":"-84.4047696200411","neighborhood":"MADISONVILLE"}
+,{"objectid":"564","assetid":"553301","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"53","latitude":"39.2062402444901","longitude":"-84.3933681075464","neighborhood":"N/A"}
+,{"objectid":"565","assetid":"497882","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"107","latitude":"39.2509254225121","longitude":"-84.7240061528659","neighborhood":"N/A"}
+,{"objectid":"566","assetid":"1334959","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"101","latitude":"39.079996246202","longitude":"-84.3800809499919","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"567","assetid":"453135","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"68","latitude":"39.2238923229595","longitude":"-84.6091980364091","neighborhood":"N/A"}
+,{"objectid":"568","assetid":"324146","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"162","latitude":"39.2704242620953","longitude":"-84.4306820323599","neighborhood":"N/A"}
+,{"objectid":"569","assetid":"325330","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"72","latitude":"39.2564152164752","longitude":"-84.5856733186125","neighborhood":"N/A"}
+,{"objectid":"570","assetid":"336342","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"196","latitude":"39.1655519709218","longitude":"-84.5187390923418","neighborhood":"SPRING GROVE VILLAGE"}
+,{"objectid":"571","assetid":"325824","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"107","latitude":"39.2563967249136","longitude":"-84.3207143227242","neighborhood":"N/A"}
+,{"objectid":"572","assetid":"331407","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"68","latitude":"39.2058496218678","longitude":"-84.5897449659694","neighborhood":"N/A"}
+,{"objectid":"573","assetid":"348029","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"141","latitude":"39.0787863327012","longitude":"-84.4013537050817","neighborhood":"N/A"}
+,{"objectid":"574","assetid":"344283","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"117","latitude":"39.1123009803845","longitude":"-84.5051376573513","neighborhood":"MT. AUBURN"}
+,{"objectid":"575","assetid":"2100040","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"74","latitude":"39.1575769852692","longitude":"-84.6525983108199","neighborhood":"N/A"}
+,{"objectid":"576","assetid":"328275","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"176","latitude":"39.2354053488058","longitude":"-84.3074119121561","neighborhood":"N/A"}
+,{"objectid":"577","assetid":"327698","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"85","latitude":"39.2391302754006","longitude":"-84.4081106333112","neighborhood":"N/A"}
+,{"objectid":"578","assetid":"340508","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.1342426414902","longitude":"-84.6672456998582","neighborhood":"N/A"}
+,{"objectid":"579","assetid":"333125","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"130","latitude":"39.1951097958191","longitude":"-84.4490864657724","neighborhood":"N/A"}
+,{"objectid":"580","assetid":"338476","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"167","latitude":"39.1510192171632","longitude":"-84.4135075677216","neighborhood":"OAKLEY"}
+,{"objectid":"581","assetid":"322752","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"70","latitude":"39.2873249445511","longitude":"-84.3099142313199","neighborhood":"N/A"}
+,{"objectid":"582","assetid":"328768","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"70","latitude":"39.2257229762745","longitude":"-84.6186152964853","neighborhood":"N/A"}
+,{"objectid":"583","assetid":"325856","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"105","latitude":"39.2492548709286","longitude":"-84.7165534056737","neighborhood":"N/A"}
+,{"objectid":"584","assetid":"536736","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"52","latitude":"39.1770016949703","longitude":"-84.3855902341489","neighborhood":"N/A"}
+,{"objectid":"585","assetid":"347000","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"111","latitude":"39.0932724715512","longitude":"-84.3516328449912","neighborhood":"N/A"}
+,{"objectid":"586","assetid":"366374","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"65","latitude":"39.2495181724066","longitude":"-84.6150016578425","neighborhood":"N/A"}
+,{"objectid":"587","assetid":"516057","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"72","latitude":"39.2089973051589","longitude":"-84.4063533901925","neighborhood":"N/A"}
+,{"objectid":"588","assetid":"331865","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"70","latitude":"39.2051867896157","longitude":"-84.4316535263377","neighborhood":"N/A"}
+,{"objectid":"589","assetid":"339047","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"94","latitude":"39.1459101868948","longitude":"-84.4949985931825","neighborhood":"AVONDALE"}
+,{"objectid":"590","assetid":"331727","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"160","latitude":"39.2057568179802","longitude":"-84.4553680701612","neighborhood":"ROSELAWN"}
+,{"objectid":"591","assetid":"322649","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"86","latitude":"39.2851395360949","longitude":"-84.4924938950693","neighborhood":"N/A"}
+,{"objectid":"592","assetid":"344631","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"149","latitude":"39.1128806401796","longitude":"-84.3350245745654","neighborhood":"N/A"}
+,{"objectid":"593","assetid":"326765","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"116","latitude":"39.2460969647535","longitude":"-84.4553579548278","neighborhood":"N/A"}
+,{"objectid":"594","assetid":"345268","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.1045027953866","longitude":"-84.5882075338265","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"595","assetid":"398675","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"95","latitude":"39.2713030253318","longitude":"-84.7471537114621","neighborhood":"N/A"}
+,{"objectid":"596","assetid":"1980811","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"111","latitude":"39.1443987766856","longitude":"-84.5252587969979","neighborhood":"CLIFTON"}
+,{"objectid":"597","assetid":"372950","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"75","latitude":"39.3388398355788","longitude":"-84.3480967237439","neighborhood":"N/A"}
+,{"objectid":"598","assetid":"2154425","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"76","latitude":"39.3884171811303","longitude":"-84.3176929139079","neighborhood":"N/A"}
+,{"objectid":"599","assetid":"339435","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1411944099778","longitude":"-84.6333505642178","neighborhood":"N/A"}
+,{"objectid":"600","assetid":"324751","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"81","latitude":"39.261481922299","longitude":"-84.6178011551395","neighborhood":"N/A"}
+,{"objectid":"601","assetid":"344305","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"63","latitude":"39.110297583162","longitude":"-84.6127893452003","neighborhood":"N/A"}
+,{"objectid":"602","assetid":"342649","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"64","latitude":"39.1232120123829","longitude":"-84.4558645009427","neighborhood":"EAST END"}
+,{"objectid":"603","assetid":"337760","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"108","latitude":"39.1540067887226","longitude":"-84.5173890220897","neighborhood":"CLIFTON"}
+,{"objectid":"604","assetid":"2050468","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"80","latitude":"39.2299232178245","longitude":"-84.6612042855998","neighborhood":"N/A"}
+,{"objectid":"605","assetid":"325359","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"86","latitude":"39.2601235781119","longitude":"-84.3488321607939","neighborhood":"N/A"}
+,{"objectid":"606","assetid":"336125","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"75","latitude":"39.163876856819","longitude":"-84.7053618746548","neighborhood":"N/A"}
+,{"objectid":"607","assetid":"330400","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"105","latitude":"39.2142617278625","longitude":"-84.4941225089302","neighborhood":"N/A"}
+,{"objectid":"608","assetid":"336611","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"150","latitude":"39.1635140801554","longitude":"-84.4991192887797","neighborhood":"N/A"}
+,{"objectid":"609","assetid":"320859","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"100","latitude":"39.302399295593","longitude":"-84.5685303043796","neighborhood":"N/A"}
+,{"objectid":"610","assetid":"330854","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"61","latitude":"39.2129991117071","longitude":"-84.3827690399487","neighborhood":"N/A"}
+,{"objectid":"611","assetid":"322775","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.2838326903732","longitude":"-84.5117881588265","neighborhood":"N/A"}
+,{"objectid":"612","assetid":"515768","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"82","latitude":"39.0594353405517","longitude":"-84.3697869505295","neighborhood":"N/A"}
+,{"objectid":"613","assetid":"327332","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"62","latitude":"39.2393307448324","longitude":"-84.5948266804345","neighborhood":"N/A"}
+,{"objectid":"614","assetid":"346959","lifecyclestatus":"AC","servicearea":"EHR","staticpressure":"56","latitude":"39.0887147248984","longitude":"-84.6374557135192","neighborhood":"N/A"}
+,{"objectid":"615","assetid":"343161","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"88","latitude":"39.1162081690467","longitude":"-84.6667387542014","neighborhood":"N/A"}
+,{"objectid":"616","assetid":"332016","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"74","latitude":"39.2043818861261","longitude":"-84.4158640042849","neighborhood":"N/A"}
+,{"objectid":"617","assetid":"467239","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"60","latitude":"39.1133966876011","longitude":"-84.6057173871959","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"618","assetid":"457229","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"65","latitude":"39.3619487888676","longitude":"-84.2817019740271","neighborhood":"N/A"}
+,{"objectid":"619","assetid":"327567","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"97","latitude":"39.2375621332441","longitude":"-84.5714639875505","neighborhood":"N/A"}
+,{"objectid":"620","assetid":"321962","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"78","latitude":"39.2919765708462","longitude":"-84.3920924105312","neighborhood":"N/A"}
+,{"objectid":"621","assetid":"510441","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"89","latitude":"39.2666442331525","longitude":"-84.3266603950575","neighborhood":"N/A"}
+,{"objectid":"622","assetid":"335926","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"145","latitude":"39.1702470119266","longitude":"-84.4313621828299","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"623","assetid":"345780","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"87","latitude":"39.1052443741531","longitude":"-84.3432996483755","neighborhood":"N/A"}
+,{"objectid":"624","assetid":"321656","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"154","latitude":"39.2942919268543","longitude":"-84.4286086481086","neighborhood":"N/A"}
+,{"objectid":"625","assetid":"323696","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"84","latitude":"39.2735261592572","longitude":"-84.5093912512223","neighborhood":"N/A"}
+,{"objectid":"626","assetid":"546530","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"88","latitude":"39.3441774046355","longitude":"-84.2979271748505","neighborhood":"N/A"}
+,{"objectid":"627","assetid":"326950","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.2421462002638","longitude":"-84.6072440253513","neighborhood":"N/A"}
+,{"objectid":"628","assetid":"323932","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"59","latitude":"39.2738695865834","longitude":"-84.3454292687165","neighborhood":"N/A"}
+,{"objectid":"629","assetid":"324089","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"91","latitude":"39.2697599462959","longitude":"-84.5035350481437","neighborhood":"N/A"}
+,{"objectid":"630","assetid":"325471","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"68","latitude":"39.2582770723727","longitude":"-84.3982267714846","neighborhood":"N/A"}
+,{"objectid":"631","assetid":"527029","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"83","latitude":"39.2624181439962","longitude":"-84.7787552169553","neighborhood":"N/A"}
+,{"objectid":"632","assetid":"324901","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.2606182206832","longitude":"-84.5884244410712","neighborhood":"N/A"}
+,{"objectid":"633","assetid":"334033","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"80","latitude":"39.1892071615139","longitude":"-84.3707665028163","neighborhood":"N/A"}
+,{"objectid":"634","assetid":"345413","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"58","latitude":"39.1050086054932","longitude":"-84.5104587551435","neighborhood":"DOWNTOWN"}
+,{"objectid":"635","assetid":"327267","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.240866304364","longitude":"-84.5390853202166","neighborhood":"N/A"}
+,{"objectid":"636","assetid":"330965","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"86","latitude":"39.2124980069833","longitude":"-84.3653598206997","neighborhood":"N/A"}
+,{"objectid":"637","assetid":"324242","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"82","latitude":"39.2682052345956","longitude":"-84.5112151904357","neighborhood":"N/A"}
+,{"objectid":"638","assetid":"328380","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"54","latitude":"39.233118016458","longitude":"-84.3903699536955","neighborhood":"N/A"}
+,{"objectid":"639","assetid":"335342","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.1723161641274","longitude":"-84.6291397625561","neighborhood":"N/A"}
+,{"objectid":"640","assetid":"348010","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"75","latitude":"39.0804304181118","longitude":"-84.3259264379865","neighborhood":"N/A"}
+,{"objectid":"641","assetid":"1353208","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"136","latitude":"39.1306004791971","longitude":"-84.5613439490361","neighborhood":"NORTH FAIRMOUNT"}
+,{"objectid":"642","assetid":"340943","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"81","latitude":"39.1347753828579","longitude":"-84.4782794012488","neighborhood":"EVANSTON"}
+,{"objectid":"643","assetid":"460561","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"73","latitude":"39.3890713291506","longitude":"-84.3193695968513","neighborhood":"N/A"}
+,{"objectid":"644","assetid":"376980","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"102","latitude":"39.3464337247747","longitude":"-84.318656357888","neighborhood":"N/A"}
+,{"objectid":"645","assetid":"1321478","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"70","latitude":"39.3552736318066","longitude":"-84.3477448683512","neighborhood":"N/A"}
+,{"objectid":"1","assetid":"340816","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"113","latitude":"39.1362276109435","longitude":"-84.4455310422017","neighborhood":"HYDE PARK"}
+,{"objectid":"2","assetid":"340954","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"87","latitude":"39.1322157825822","longitude":"-84.6205234935311","neighborhood":"N/A"}
+,{"objectid":"3","assetid":"334060","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"86","latitude":"39.1889985170241","longitude":"-84.3718849127152","neighborhood":"N/A"}
+,{"objectid":"4","assetid":"333805","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"58","latitude":"39.1879905568067","longitude":"-84.5699704398768","neighborhood":"MT. AIRY"}
+,{"objectid":"5","assetid":"348593","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"61","latitude":"39.0692965527806","longitude":"-84.356751910139","neighborhood":"N/A"}
+,{"objectid":"6","assetid":"497956","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"123","latitude":"39.2572665624482","longitude":"-84.7309133196897","neighborhood":"N/A"}
+,{"objectid":"7","assetid":"1451504","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"101","latitude":"39.2074840688782","longitude":"-84.6744501877099","neighborhood":"N/A"}
+,{"objectid":"8","assetid":"333442","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"102","latitude":"39.1914657257003","longitude":"-84.5206964139123","neighborhood":"WINTON HILLS"}
+,{"objectid":"9","assetid":"407240","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"107","latitude":"39.187577913727","longitude":"-84.3955492382318","neighborhood":"N/A"}
+,{"objectid":"10","assetid":"371960","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"78","latitude":"39.3306371615377","longitude":"-84.3305796470594","neighborhood":"N/A"}
+,{"objectid":"11","assetid":"338143","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"73","latitude":"39.1497328821563","longitude":"-84.6181605908769","neighborhood":"N/A"}
+,{"objectid":"12","assetid":"341765","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"61","latitude":"39.1288706374108","longitude":"-84.4773527494908","neighborhood":"WALNUT HILLS"}
+,{"objectid":"13","assetid":"373309","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"76","latitude":"39.3346265020044","longitude":"-84.3379574975894","neighborhood":"N/A"}
+,{"objectid":"14","assetid":"551734","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"115","latitude":"39.2484631352229","longitude":"-84.4649176914612","neighborhood":"N/A"}
+,{"objectid":"15","assetid":"346753","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"97","latitude":"39.0958277875596","longitude":"-84.3616622676081","neighborhood":"N/A"}
+,{"objectid":"16","assetid":"544981","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"55","latitude":"39.1607703399657","longitude":"-84.6382518150868","neighborhood":"N/A"}
+,{"objectid":"17","assetid":"510149","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"84","latitude":"39.2714099561744","longitude":"-84.6620817868168","neighborhood":"N/A"}
+,{"objectid":"18","assetid":"346506","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.094502003575","longitude":"-84.6005001810545","neighborhood":"N/A"}
+,{"objectid":"19","assetid":"527137","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"62","latitude":"39.3775355356727","longitude":"-84.3157754642994","neighborhood":"N/A"}
+,{"objectid":"20","assetid":"341052","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"130","latitude":"39.1347190477226","longitude":"-84.4351406916247","neighborhood":"HYDE PARK"}
+,{"objectid":"21","assetid":"1329866","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"182","latitude":"39.1801776424971","longitude":"-84.4921411014042","neighborhood":"N/A"}
+,{"objectid":"22","assetid":"331956","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"77","latitude":"39.2053955460913","longitude":"-84.3796611376647","neighborhood":"N/A"}
+,{"objectid":"23","assetid":"342694","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"192","latitude":"39.1245508051147","longitude":"-84.357380009672","neighborhood":"N/A"}
+,{"objectid":"24","assetid":"324375","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"158","latitude":"39.2686234688363","longitude":"-84.4158720333703","neighborhood":"N/A"}
+,{"objectid":"25","assetid":"570158","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"96","latitude":"39.3919625923277","longitude":"-84.2989889561384","neighborhood":"N/A"}
+,{"objectid":"26","assetid":"322712","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"74","latitude":"39.283443970412","longitude":"-84.5586178140442","neighborhood":"N/A"}
+,{"objectid":"27","assetid":"537856","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"183","latitude":"39.1744278962578","longitude":"-84.532551516296","neighborhood":"NORTHSIDE"}
+,{"objectid":"28","assetid":"325405","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"134","latitude":"39.2578575470554","longitude":"-84.4600177110978","neighborhood":"N/A"}
+,{"objectid":"29","assetid":"374608","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"92","latitude":"39.3467851163824","longitude":"-84.3286827222021","neighborhood":"N/A"}
+,{"objectid":"30","assetid":"326213","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"66","latitude":"39.2521474466694","longitude":"-84.3874845102702","neighborhood":"N/A"}
+,{"objectid":"31","assetid":"335626","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"88","latitude":"39.1697554014034","longitude":"-84.6259065687905","neighborhood":"N/A"}
+,{"objectid":"32","assetid":"329578","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"80","latitude":"39.2204640338636","longitude":"-84.5166263079078","neighborhood":"N/A"}
+,{"objectid":"33","assetid":"347285","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"72","latitude":"39.0854497815934","longitude":"-84.6162733735993","neighborhood":"N/A"}
+,{"objectid":"34","assetid":"335348","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"65","latitude":"39.1765194740033","longitude":"-84.3828924963008","neighborhood":"N/A"}
+,{"objectid":"35","assetid":"323885","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"55","latitude":"39.273928706897","longitude":"-84.3668583043779","neighborhood":"N/A"}
+,{"objectid":"36","assetid":"341116","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.1303766035589","longitude":"-84.6506612475405","neighborhood":"N/A"}
+,{"objectid":"37","assetid":"340646","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.1342624108989","longitude":"-84.6200890065363","neighborhood":"N/A"}
+,{"objectid":"38","assetid":"452249","lifecyclestatus":"AC","servicearea":"MR","staticpressure":"85","latitude":"39.3485468653562","longitude":"-84.2860361203759","neighborhood":"N/A"}
+,{"objectid":"39","assetid":"327915","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.2344971683906","longitude":"-84.5797618578632","neighborhood":"N/A"}
+,{"objectid":"40","assetid":"2058056","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"142","latitude":"39.1783330319877","longitude":"-84.4585932445487","neighborhood":"BOND HILL"}
+,{"objectid":"41","assetid":"342184","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"61","latitude":"39.1253080446937","longitude":"-84.5180210215818","neighborhood":"CUF"}
+,{"objectid":"42","assetid":"322315","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.2864214539384","longitude":"-84.5663508590452","neighborhood":"N/A"}
+,{"objectid":"43","assetid":"541397","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"139","latitude":"39.1790948423872","longitude":"-84.5387204507993","neighborhood":"NORTHSIDE"}
+,{"objectid":"44","assetid":"336763","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"118","latitude":"39.1581778612264","longitude":"-84.7080085221498","neighborhood":"N/A"}
+,{"objectid":"45","assetid":"335073","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"89","latitude":"39.1780073768051","longitude":"-84.4226851327986","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"46","assetid":"540077","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"48","latitude":"39.3664552344663","longitude":"-84.3211400148809","neighborhood":"N/A"}
+,{"objectid":"47","assetid":"459330","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"85","latitude":"39.3853629424481","longitude":"-84.309738535294","neighborhood":"N/A"}
+,{"objectid":"48","assetid":"327270","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"69","latitude":"39.2436948137719","longitude":"-84.3681446479134","neighborhood":"N/A"}
+,{"objectid":"49","assetid":"350349","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"199","latitude":"39.2480693749815","longitude":"-84.6541915741186","neighborhood":"N/A"}
+,{"objectid":"50","assetid":"333199","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.1914039943081","longitude":"-84.6274757354257","neighborhood":"N/A"}
+,{"objectid":"51","assetid":"543974","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"66","latitude":"39.209420596105","longitude":"-84.4125014767705","neighborhood":"N/A"}
+,{"objectid":"52","assetid":"485204","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"106","latitude":"39.2005396088618","longitude":"-84.6494798740561","neighborhood":"N/A"}
+,{"objectid":"53","assetid":"347196","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"91","latitude":"39.0905644793244","longitude":"-84.3757163314285","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"54","assetid":"329778","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.2163707851456","longitude":"-84.6476740348754","neighborhood":"N/A"}
+,{"objectid":"55","assetid":"348074","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"136","latitude":"39.0776629835699","longitude":"-84.4108354035035","neighborhood":"N/A"}
+,{"objectid":"56","assetid":"476945","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.2353036313667","longitude":"-84.5039992438898","neighborhood":"N/A"}
+,{"objectid":"57","assetid":"363739","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"38","latitude":"39.1608368882468","longitude":"-84.6046081716812","neighborhood":"N/A"}
+,{"objectid":"58","assetid":"321681","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.2921052757827","longitude":"-84.5387441679865","neighborhood":"N/A"}
+,{"objectid":"59","assetid":"345087","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"57","latitude":"39.1052853914436","longitude":"-84.6129694368549","neighborhood":"N/A"}
+,{"objectid":"60","assetid":"504952","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"110","latitude":"39.1164873286139","longitude":"-84.4290757580276","neighborhood":"COLUMBIA TUSCULUM"}
+,{"objectid":"61","assetid":"347005","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"93","latitude":"39.0928754530022","longitude":"-84.3728837625562","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"62","assetid":"329256","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"124","latitude":"39.2254240815167","longitude":"-84.4057287442541","neighborhood":"N/A"}
+,{"objectid":"63","assetid":"489633","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"191","latitude":"39.1164648623793","longitude":"-84.3161773635748","neighborhood":"N/A"}
+,{"objectid":"64","assetid":"2253555","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"91","latitude":"39.3471296734753","longitude":"-84.329255670026","neighborhood":"N/A"}
+,{"objectid":"65","assetid":"337165","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"83","latitude":"39.1577996401952","longitude":"-84.5410439446284","neighborhood":"NORTHSIDE"}
+,{"objectid":"66","assetid":"332860","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"174","latitude":"39.1966894691648","longitude":"-84.4775167811718","neighborhood":"CARTHAGE"}
+,{"objectid":"67","assetid":"376675","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"59","latitude":"39.3792103834721","longitude":"-84.3225914045932","neighborhood":"N/A"}
+,{"objectid":"68","assetid":"332419","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"167","latitude":"39.2006809564218","longitude":"-84.4548657112078","neighborhood":"ROSELAWN"}
+,{"objectid":"69","assetid":"321098","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"72","latitude":"39.3005918201352","longitude":"-84.4882574614155","neighborhood":"N/A"}
+,{"objectid":"70","assetid":"339089","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"106","latitude":"39.1458120014758","longitude":"-84.4851686394894","neighborhood":"AVONDALE"}
+,{"objectid":"71","assetid":"516459","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"99","latitude":"39.1904931043405","longitude":"-84.4378222646379","neighborhood":"N/A"}
+,{"objectid":"72","assetid":"325253","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"99","latitude":"39.2614733056977","longitude":"-84.3212848600113","neighborhood":"N/A"}
+,{"objectid":"73","assetid":"330596","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"75","latitude":"39.2120170714842","longitude":"-84.5467062015287","neighborhood":"N/A"}
+,{"objectid":"74","assetid":"333900","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"134","latitude":"39.1892100068091","longitude":"-84.4483462454453","neighborhood":"N/A"}
+,{"objectid":"75","assetid":"339956","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.1382582859054","longitude":"-84.6425350680391","neighborhood":"N/A"}
+,{"objectid":"76","assetid":"374122","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"89","latitude":"39.3409314858463","longitude":"-84.3282553202357","neighborhood":"N/A"}
+,{"objectid":"77","assetid":"324391","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"157","latitude":"39.2684788246826","longitude":"-84.4129665875728","neighborhood":"N/A"}
+,{"objectid":"78","assetid":"340426","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"95","latitude":"39.138553766362","longitude":"-84.4577951734646","neighborhood":"EVANSTON"}
+,{"objectid":"79","assetid":"329399","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"76","latitude":"39.2248370266226","longitude":"-84.3598060901204","neighborhood":"N/A"}
+,{"objectid":"80","assetid":"481158","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"140","latitude":"39.2544727887593","longitude":"-84.4759672569831","neighborhood":"N/A"}
+,{"objectid":"81","assetid":"327516","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"102","latitude":"39.2384541168933","longitude":"-84.5451766891776","neighborhood":"N/A"}
+,{"objectid":"82","assetid":"339471","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.1398862822228","longitude":"-84.6926289407399","neighborhood":"N/A"}
+,{"objectid":"83","assetid":"367105","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"154","latitude":"39.1547316629297","longitude":"-84.3800488321032","neighborhood":"MADISONVILLE"}
+,{"objectid":"84","assetid":"320762","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"124","latitude":"39.3067501044751","longitude":"-84.4538227892092","neighborhood":"N/A"}
+,{"objectid":"85","assetid":"376840","lifecyclestatus":"AB","servicearea":"MN","staticpressure":"53","latitude":"39.3608175997703","longitude":"-84.3194026724804","neighborhood":"N/A"}
+,{"objectid":"86","assetid":"532720","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"61","latitude":"39.2298924101491","longitude":"-84.379628671873","neighborhood":"N/A"}
+,{"objectid":"87","assetid":"347930","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"110","latitude":"39.0804423990386","longitude":"-84.4086474861668","neighborhood":"N/A"}
+,{"objectid":"88","assetid":"325655","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"76","latitude":"39.2535661903334","longitude":"-84.573156711382","neighborhood":"N/A"}
+,{"objectid":"89","assetid":"478182","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"104","latitude":"39.1180114455019","longitude":"-84.6624991021652","neighborhood":"N/A"}
+,{"objectid":"90","assetid":"531220","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.2109193462785","longitude":"-84.5777644477113","neighborhood":"N/A"}
+,{"objectid":"91","assetid":"342847","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.1198175325017","longitude":"-84.5816878383492","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"92","assetid":"466492","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"166","latitude":"39.2055473814029","longitude":"-84.4526087730607","neighborhood":"N/A"}
+,{"objectid":"93","assetid":"339258","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.1431009182675","longitude":"-84.5868471368145","neighborhood":"WESTWOOD"}
+,{"objectid":"94","assetid":"324238","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"106","latitude":"39.2685253743035","longitude":"-84.4950651138497","neighborhood":"N/A"}
+,{"objectid":"95","assetid":"337607","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"163","latitude":"39.1566601725942","longitude":"-84.4144777066905","neighborhood":"OAKLEY"}
+,{"objectid":"96","assetid":"532773","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"79","latitude":"39.2228682370499","longitude":"-84.7319501710634","neighborhood":"N/A"}
+,{"objectid":"97","assetid":"451861","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"55","latitude":"39.3765598875181","longitude":"-84.3242029382395","neighborhood":"N/A"}
+,{"objectid":"98","assetid":"340692","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"132","latitude":"39.1371452006488","longitude":"-84.4376714277766","neighborhood":"HYDE PARK"}
+,{"objectid":"99","assetid":"480765","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"92","latitude":"39.2629687242514","longitude":"-84.7611202738709","neighborhood":"N/A"}
+,{"objectid":"100","assetid":"2229711","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"67","latitude":"39.2485546609475","longitude":"-84.3869824260261","neighborhood":"N/A"}
+,{"objectid":"101","assetid":"328550","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"70","latitude":"39.2281642139042","longitude":"-84.595269964635","neighborhood":"N/A"}
+,{"objectid":"102","assetid":"329692","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.2181910221975","longitude":"-84.5914651240574","neighborhood":"N/A"}
+,{"objectid":"103","assetid":"486106","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"100","latitude":"39.2634761238853","longitude":"-84.3185865899191","neighborhood":"N/A"}
+,{"objectid":"104","assetid":"377397","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"89","latitude":"39.3602843986099","longitude":"-84.3333019551702","neighborhood":"N/A"}
+,{"objectid":"105","assetid":"489580","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"152","latitude":"39.1511889706524","longitude":"-84.3750221723615","neighborhood":"MADISONVILLE"}
+,{"objectid":"106","assetid":"1359993","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"120","latitude":"39.1500775763921","longitude":"-84.5219785938917","neighborhood":"CLIFTON"}
+,{"objectid":"107","assetid":"329539","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"87","latitude":"39.2206517942996","longitude":"-84.5225658369436","neighborhood":"N/A"}
+,{"objectid":"108","assetid":"324240","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"99","latitude":"39.2684636229418","longitude":"-84.4973585039445","neighborhood":"N/A"}
+,{"objectid":"109","assetid":"504496","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"76","latitude":"39.1286118407576","longitude":"-84.645158912299","neighborhood":"N/A"}
+,{"objectid":"110","assetid":"335151","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"76","latitude":"39.1774570043876","longitude":"-84.4157015267777","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"111","assetid":"508098","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"154","latitude":"39.1650321569811","longitude":"-84.500312008054","neighborhood":"N/A"}
+,{"objectid":"112","assetid":"347955","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"97","latitude":"39.080759095705","longitude":"-84.3635293325971","neighborhood":"N/A"}
+,{"objectid":"113","assetid":"325732","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"93","latitude":"39.2568828489001","longitude":"-84.3400317359002","neighborhood":"N/A"}
+,{"objectid":"114","assetid":"321755","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"92","latitude":"39.2910697453645","longitude":"-84.556334050939","neighborhood":"N/A"}
+,{"objectid":"115","assetid":"338882","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"62","latitude":"39.1451998888513","longitude":"-84.5990688682498","neighborhood":"WESTWOOD"}
+,{"objectid":"116","assetid":"344921","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"163","latitude":"39.1073860784476","longitude":"-84.5551071028437","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"117","assetid":"325555","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"102","latitude":"39.2586361418113","longitude":"-84.3242838249618","neighborhood":"N/A"}
+,{"objectid":"118","assetid":"570526","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"68","latitude":"39.2640896759251","longitude":"-84.5232704645213","neighborhood":"N/A"}
+,{"objectid":"119","assetid":"377221","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"93","latitude":"39.3676199364433","longitude":"-84.2725571215072","neighborhood":"N/A"}
+,{"objectid":"120","assetid":"329566","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"89","latitude":"39.2195073592992","longitude":"-84.5759034517248","neighborhood":"N/A"}
+,{"objectid":"121","assetid":"344874","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.1061037951269","longitude":"-84.6395823578043","neighborhood":"N/A"}
+,{"objectid":"122","assetid":"320834","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"95","latitude":"39.3015988656739","longitude":"-84.6440679433565","neighborhood":"N/A"}
+,{"objectid":"123","assetid":"344018","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"134","latitude":"39.1152244212404","longitude":"-84.4297336045205","neighborhood":"COLUMBIA TUSCULUM"}
+,{"objectid":"124","assetid":"2127947","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"64","latitude":"39.1293529130945","longitude":"-84.4622512529948","neighborhood":"HYDE PARK"}
+,{"objectid":"125","assetid":"338758","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"63","latitude":"39.1457771973411","longitude":"-84.6107765839791","neighborhood":"WESTWOOD"}
+,{"objectid":"126","assetid":"348277","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"106","latitude":"39.0745932351727","longitude":"-84.3959274033052","neighborhood":"N/A"}
+,{"objectid":"127","assetid":"509726","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"80","latitude":"39.2134341992305","longitude":"-84.4110085256453","neighborhood":"N/A"}
+,{"objectid":"128","assetid":"377240","lifecyclestatus":"AB","servicearea":"MS","staticpressure":"89","latitude":"39.3669176678807","longitude":"-84.331430359779","neighborhood":"N/A"}
+,{"objectid":"129","assetid":"333502","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"81","latitude":"39.1926480915121","longitude":"-84.4267208663605","neighborhood":"N/A"}
+,{"objectid":"130","assetid":"476174","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"60","latitude":"39.0647840293246","longitude":"-84.3803897603671","neighborhood":"N/A"}
+,{"objectid":"131","assetid":"1350145","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"115","latitude":"39.2470996707426","longitude":"-84.4588827224068","neighborhood":"N/A"}
+,{"objectid":"132","assetid":"342782","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"106","latitude":"39.1215170099282","longitude":"-84.5143186981379","neighborhood":"MT. AUBURN"}
+,{"objectid":"133","assetid":"321095","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"112","latitude":"39.2992891186832","longitude":"-84.5661979585759","neighborhood":"N/A"}
+,{"objectid":"134","assetid":"342376","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"55","latitude":"39.1244647402012","longitude":"-84.4912779602171","neighborhood":"WALNUT HILLS"}
+,{"objectid":"135","assetid":"328721","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.2270387549864","longitude":"-84.5663778507922","neighborhood":"N/A"}
+,{"objectid":"136","assetid":"343293","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.115871816241","longitude":"-84.6429086259584","neighborhood":"N/A"}
+,{"objectid":"137","assetid":"342554","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"118","latitude":"39.1215803994189","longitude":"-84.5860983228428","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"138","assetid":"332786","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"50","latitude":"39.1988051254623","longitude":"-84.3864099791581","neighborhood":"N/A"}
+,{"objectid":"139","assetid":"338376","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"161","latitude":"39.1497576987222","longitude":"-84.534829365377","neighborhood":"CLIFTON"}
+,{"objectid":"140","assetid":"488999","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"57","latitude":"39.3564894972675","longitude":"-84.2876886777419","neighborhood":"N/A"}
+,{"objectid":"141","assetid":"343504","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"53","latitude":"39.1170237479106","longitude":"-84.5088987636731","neighborhood":"MT. AUBURN"}
+,{"objectid":"142","assetid":"335402","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.1702057911362","longitude":"-84.7144334189678","neighborhood":"N/A"}
+,{"objectid":"143","assetid":"342324","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"184","latitude":"39.1261461216969","longitude":"-84.4138801994483","neighborhood":"MT. LOOKOUT"}
+,{"objectid":"144","assetid":"324395","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"65","latitude":"39.2688373189129","longitude":"-84.3848370047782","neighborhood":"N/A"}
+,{"objectid":"145","assetid":"320906","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"154","latitude":"39.3009850356046","longitude":"-84.6002384585768","neighborhood":"N/A"}
+,{"objectid":"146","assetid":"347924","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"81","latitude":"39.0816169163284","longitude":"-84.3364828506691","neighborhood":"N/A"}
+,{"objectid":"147","assetid":"332082","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"69","latitude":"39.2039449729204","longitude":"-84.4129197735321","neighborhood":"N/A"}
+,{"objectid":"148","assetid":"1368986","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"153","latitude":"39.1474671622469","longitude":"-84.5127113545889","neighborhood":"CLIFTON"}
+,{"objectid":"149","assetid":"518705","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"72","latitude":"39.2099232997468","longitude":"-84.5752606475249","neighborhood":"N/A"}
+,{"objectid":"150","assetid":"385839","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"74","latitude":"39.326621593781","longitude":"-84.308900625576","neighborhood":"N/A"}
+,{"objectid":"151","assetid":"334690","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"87","latitude":"39.1775456542917","longitude":"-84.6666456112672","neighborhood":"N/A"}
+,{"objectid":"152","assetid":"473362","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.0967350834131","longitude":"-84.5626731354715","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"153","assetid":"354889","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"74","latitude":"39.1404859772979","longitude":"-84.5374613413944","neighborhood":"CAMP WASHINGTON"}
+,{"objectid":"154","assetid":"331352","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.206946596158","longitude":"-84.5509815241428","neighborhood":"COLLEGE HILL"}
+,{"objectid":"155","assetid":"370180","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"143","latitude":"39.1451474241815","longitude":"-84.4238877138844","neighborhood":"OAKLEY"}
+,{"objectid":"156","assetid":"557540","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"62","latitude":"39.1490384806403","longitude":"-84.6074261934405","neighborhood":"WESTWOOD"}
+,{"objectid":"157","assetid":"327394","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"72","latitude":"39.2426179226676","longitude":"-84.3634524846361","neighborhood":"N/A"}
+,{"objectid":"158","assetid":"339386","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"152","latitude":"39.1460835401965","longitude":"-84.3687254753566","neighborhood":"N/A"}
+,{"objectid":"159","assetid":"377505","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"89","latitude":"39.3685952422394","longitude":"-84.2753820374202","neighborhood":"N/A"}
+,{"objectid":"160","assetid":"336571","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"35","latitude":"39.1620463077036","longitude":"-84.604430447067","neighborhood":"N/A"}
+,{"objectid":"161","assetid":"2190337","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.2345960689521","longitude":"-84.5480953622969","neighborhood":"N/A"}
+,{"objectid":"162","assetid":"389352","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"92","latitude":"39.1765713172849","longitude":"-84.4245042027148","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"163","assetid":"2129854","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"99","latitude":"39.1517851899757","longitude":"-84.4858892698029","neighborhood":"AVONDALE"}
+,{"objectid":"164","assetid":"326596","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.2448830338781","longitude":"-84.6053444037832","neighborhood":"N/A"}
+,{"objectid":"165","assetid":"334101","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"184","latitude":"39.1866995611559","longitude":"-84.4885719852562","neighborhood":"N/A"}
+,{"objectid":"166","assetid":"395608","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1117812820948","longitude":"-84.6629542829695","neighborhood":"N/A"}
+,{"objectid":"167","assetid":"320895","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"94","latitude":"39.3024599687976","longitude":"-84.5248684066185","neighborhood":"N/A"}
+,{"objectid":"168","assetid":"339177","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"96","latitude":"39.1451712061853","longitude":"-84.4917273310089","neighborhood":"AVONDALE"}
+,{"objectid":"169","assetid":"331536","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"179","latitude":"39.2069692838062","longitude":"-84.4682191244354","neighborhood":"HARTWELL"}
+,{"objectid":"170","assetid":"345768","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.1005674042602","longitude":"-84.620496787512","neighborhood":"N/A"}
+,{"objectid":"171","assetid":"343193","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"88","latitude":"39.1162834933104","longitude":"-84.6626852840993","neighborhood":"N/A"}
+,{"objectid":"172","assetid":"332930","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"34","latitude":"39.1953562739726","longitude":"-84.5193634801248","neighborhood":"WINTON HILLS"}
+,{"objectid":"173","assetid":"1346755","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"60","latitude":"39.1294723680345","longitude":"-84.4759073116201","neighborhood":"EAST WALNUT HILLS"}
+,{"objectid":"174","assetid":"325001","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"67","latitude":"39.2598071108927","longitude":"-84.579907047325","neighborhood":"N/A"}
+,{"objectid":"175","assetid":"323435","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"62","latitude":"39.2791569796589","longitude":"-84.3451313054706","neighborhood":"N/A"}
+,{"objectid":"176","assetid":"2132650","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"81","latitude":"39.2223619871713","longitude":"-84.5779834908362","neighborhood":"N/A"}
+,{"objectid":"177","assetid":"525165","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"89","latitude":"39.2090622880729","longitude":"-84.3550151952189","neighborhood":"N/A"}
+,{"objectid":"178","assetid":"349261","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"96","latitude":"39.0495197599337","longitude":"-84.3521459660015","neighborhood":"N/A"}
+,{"objectid":"179","assetid":"324012","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"81","latitude":"39.2694122962573","longitude":"-84.5659565812333","neighborhood":"N/A"}
+,{"objectid":"180","assetid":"335003","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"156","latitude":"39.177789976546","longitude":"-84.4761358839075","neighborhood":"BOND HILL"}
+,{"objectid":"181","assetid":"335530","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"62","latitude":"39.1710941111715","longitude":"-84.6033959409349","neighborhood":"N/A"}
+,{"objectid":"182","assetid":"329417","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.2194521436907","longitude":"-84.6593272733916","neighborhood":"N/A"}
+,{"objectid":"183","assetid":"340516","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"86","latitude":"39.1374835913581","longitude":"-84.4851093962041","neighborhood":"WALNUT HILLS"}
+,{"objectid":"184","assetid":"558387","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"162","latitude":"39.1608466439889","longitude":"-84.4998800722978","neighborhood":"AVONDALE"}
+,{"objectid":"185","assetid":"475853","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"89","latitude":"39.3719427602304","longitude":"-84.2840930975874","neighborhood":"N/A"}
+,{"objectid":"186","assetid":"324705","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"87","latitude":"39.2630130127242","longitude":"-84.558827433791","neighborhood":"N/A"}
+,{"objectid":"187","assetid":"336081","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"195","latitude":"39.1676079109037","longitude":"-84.5168231016798","neighborhood":"SPRING GROVE VILLAGE"}
+,{"objectid":"188","assetid":"2042981","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"43","latitude":"39.1280408792997","longitude":"-84.5215692304179","neighborhood":"CUF"}
+,{"objectid":"189","assetid":"335204","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"98","latitude":"39.1767144172966","longitude":"-84.4326712802308","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"190","assetid":"513295","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"86","latitude":"39.2663218939665","longitude":"-84.3285055841613","neighborhood":"N/A"}
+,{"objectid":"191","assetid":"344121","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"130","latitude":"39.1144863485287","longitude":"-84.4327911469861","neighborhood":"COLUMBIA TUSCULUM"}
+,{"objectid":"192","assetid":"344132","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"121","latitude":"39.1122689410319","longitude":"-84.5564873159375","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"193","assetid":"1366258","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"78","latitude":"39.0863761637962","longitude":"-84.5721787778686","neighborhood":"RIVERSIDE"}
+,{"objectid":"194","assetid":"549817","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"84","latitude":"39.0958602230089","longitude":"-84.5102217945364","neighborhood":"DOWNTOWN"}
+,{"objectid":"195","assetid":"554802","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"174","latitude":"39.1832473591596","longitude":"-84.4799232998852","neighborhood":"BOND HILL"}
+,{"objectid":"196","assetid":"327948","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"100","latitude":"39.2345060474907","longitude":"-84.5608458751813","neighborhood":"N/A"}
+,{"objectid":"197","assetid":"2229462","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"68","latitude":"39.2501071233785","longitude":"-84.384734474179","neighborhood":"N/A"}
+,{"objectid":"198","assetid":"2088677","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"92","latitude":"39.2406705956636","longitude":"-84.5764581742166","neighborhood":"N/A"}
+,{"objectid":"199","assetid":"548179","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"72","latitude":"39.1691871675971","longitude":"-84.519966572634","neighborhood":"SPRING GROVE VILLAGE"}
+,{"objectid":"200","assetid":"322688","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"62","latitude":"39.2840872653563","longitude":"-84.5367970134993","neighborhood":"N/A"}
+,{"objectid":"201","assetid":"479829","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.2280302815498","longitude":"-84.5436670033943","neighborhood":"N/A"}
+,{"objectid":"202","assetid":"334104","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"91","latitude":"39.1826578660062","longitude":"-84.7108946625274","neighborhood":"N/A"}
+,{"objectid":"203","assetid":"343227","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"133","latitude":"39.1188496168036","longitude":"-84.5001028288923","neighborhood":"WALNUT HILLS"}
+,{"objectid":"204","assetid":"417890","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"185","latitude":"39.1947504297381","longitude":"-84.4835578573503","neighborhood":"CARTHAGE"}
+,{"objectid":"205","assetid":"521525","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"81","latitude":"39.1048505295179","longitude":"-84.5383502288556","neighborhood":"QUEENSGATE"}
+,{"objectid":"206","assetid":"334193","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"93","latitude":"39.1840321866919","longitude":"-84.5968511263965","neighborhood":"N/A"}
+,{"objectid":"207","assetid":"339700","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"66","latitude":"39.1407993060485","longitude":"-84.5805908249555","neighborhood":"WESTWOOD"}
+,{"objectid":"208","assetid":"324839","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"165","latitude":"39.2639804663322","longitude":"-84.4287298911032","neighborhood":"N/A"}
+,{"objectid":"209","assetid":"490460","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"206","latitude":"39.2730609116947","longitude":"-84.651962962909","neighborhood":"N/A"}
+,{"objectid":"210","assetid":"341670","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"88","latitude":"39.1301530983472","longitude":"-84.4362622744246","neighborhood":"HYDE PARK"}
+,{"objectid":"211","assetid":"1453762","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"79","latitude":"39.1389763671486","longitude":"-84.4747446537448","neighborhood":"EVANSTON"}
+,{"objectid":"212","assetid":"344897","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.1072680786154","longitude":"-84.5684416174483","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"213","assetid":"377172","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"54","latitude":"39.3639201419226","longitude":"-84.317899125042","neighborhood":"N/A"}
+,{"objectid":"214","assetid":"347294","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"64","latitude":"39.0853798418185","longitude":"-84.6148997494981","neighborhood":"N/A"}
+,{"objectid":"215","assetid":"331483","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"59","latitude":"39.2086284015089","longitude":"-84.3890315504257","neighborhood":"N/A"}
+,{"objectid":"216","assetid":"333863","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"102","latitude":"39.1881710725697","longitude":"-84.5288251578456","neighborhood":"COLLEGE HILL"}
+,{"objectid":"217","assetid":"1403363","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"175","latitude":"39.1661979078206","longitude":"-84.4707950957925","neighborhood":"NORTH AVONDALE - PADDOCK HILLS"}
+,{"objectid":"218","assetid":"484536","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"172","latitude":"39.2158925979609","longitude":"-84.4765419796552","neighborhood":"N/A"}
+,{"objectid":"219","assetid":"338168","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"48","latitude":"39.1499616596721","longitude":"-84.5980329806024","neighborhood":"WESTWOOD"}
+,{"objectid":"220","assetid":"324169","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"111","latitude":"39.2656079432069","longitude":"-84.6916783450206","neighborhood":"N/A"}
+,{"objectid":"221","assetid":"452295","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"71","latitude":"39.2808153505023","longitude":"-84.3252570804228","neighborhood":"N/A"}
+,{"objectid":"222","assetid":"320756","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"106","latitude":"39.3048284773025","longitude":"-84.5690089024361","neighborhood":"N/A"}
+,{"objectid":"223","assetid":"331700","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"55","latitude":"39.2041279452605","longitude":"-84.5612911034656","neighborhood":"N/A"}
+,{"objectid":"224","assetid":"372323","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"160","latitude":"39.2586514157242","longitude":"-84.4392339752576","neighborhood":"N/A"}
+,{"objectid":"225","assetid":"411154","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"78","latitude":"39.2806212118392","longitude":"-84.3110161793824","neighborhood":"N/A"}
+,{"objectid":"226","assetid":"332166","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"46","latitude":"39.1999568143552","longitude":"-84.6034956493398","neighborhood":"N/A"}
+,{"objectid":"227","assetid":"327436","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"65","latitude":"39.2419684156639","longitude":"-84.3811492898479","neighborhood":"N/A"}
+,{"objectid":"228","assetid":"348875","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"79","latitude":"39.0639280469503","longitude":"-84.3316437662407","neighborhood":"N/A"}
+,{"objectid":"229","assetid":"325543","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"66","latitude":"39.2575142020157","longitude":"-84.3975557376748","neighborhood":"N/A"}
+,{"objectid":"230","assetid":"394095","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"112","latitude":"39.1620599989162","longitude":"-84.7186959108298","neighborhood":"N/A"}
+,{"objectid":"231","assetid":"329056","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"74","latitude":"39.2214631494582","longitude":"-84.7181024218828","neighborhood":"N/A"}
+,{"objectid":"232","assetid":"342590","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"100","latitude":"39.1226482723763","longitude":"-84.5139615089654","neighborhood":"MT. AUBURN"}
+,{"objectid":"233","assetid":"2149835","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"46","latitude":"39.164749277185","longitude":"-84.6115568105009","neighborhood":"N/A"}
+,{"objectid":"234","assetid":"327690","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"166","latitude":"39.2408550519541","longitude":"-84.303763804289","neighborhood":"N/A"}
+,{"objectid":"235","assetid":"343245","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"53","latitude":"39.1186215670235","longitude":"-84.5075685712303","neighborhood":"MT. AUBURN"}
+,{"objectid":"236","assetid":"349128","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"118","latitude":"39.0566706050884","longitude":"-84.3530317587375","neighborhood":"N/A"}
+,{"objectid":"237","assetid":"326664","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.24466360768","longitude":"-84.5839587427613","neighborhood":"N/A"}
+,{"objectid":"238","assetid":"321134","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"129","latitude":"39.2974310000753","longitude":"-84.6332193082932","neighborhood":"N/A"}
+,{"objectid":"239","assetid":"369116","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"181","latitude":"39.1862298137526","longitude":"-84.4863747126898","neighborhood":"N/A"}
+,{"objectid":"240","assetid":"348506","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"110","latitude":"39.070413923446","longitude":"-84.3912974429368","neighborhood":"N/A"}
+,{"objectid":"241","assetid":"346524","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"83","latitude":"39.0956233609222","longitude":"-84.5279607338822","neighborhood":"QUEENSGATE"}
+,{"objectid":"242","assetid":"332183","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"43","latitude":"39.1997562389683","longitude":"-84.606407272551","neighborhood":"N/A"}
+,{"objectid":"243","assetid":"325097","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"60","latitude":"39.2582999309095","longitude":"-84.6098372779451","neighborhood":"N/A"}
+,{"objectid":"244","assetid":"2041781","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"116","latitude":"39.386670966039","longitude":"-84.2692656018337","neighborhood":"N/A"}
+,{"objectid":"245","assetid":"330365","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"88","latitude":"39.2166783607546","longitude":"-84.3603318493131","neighborhood":"N/A"}
+,{"objectid":"246","assetid":"333412","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"86","latitude":"39.1935239704547","longitude":"-84.4126232349059","neighborhood":"KENNEDY HEIGHTS"}
+,{"objectid":"247","assetid":"321692","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"62","latitude":"39.2919876007519","longitude":"-84.540128529804","neighborhood":"N/A"}
+,{"objectid":"248","assetid":"562462","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"103","latitude":"39.1303904563355","longitude":"-84.4230018076533","neighborhood":"MT. LOOKOUT"}
+,{"objectid":"249","assetid":"323452","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"81","latitude":"39.2794256506756","longitude":"-84.3148904944492","neighborhood":"N/A"}
+,{"objectid":"250","assetid":"368340","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.1824396231265","longitude":"-84.6475723582202","neighborhood":"N/A"}
+,{"objectid":"251","assetid":"2155788","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"56","latitude":"39.2147386843875","longitude":"-84.4249448031643","neighborhood":"N/A"}
+,{"objectid":"252","assetid":"455347","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"90","latitude":"39.367579817988","longitude":"-84.2961095976297","neighborhood":"N/A"}
+,{"objectid":"253","assetid":"331596","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"62","latitude":"39.2073597040936","longitude":"-84.421525547167","neighborhood":"N/A"}
+,{"objectid":"254","assetid":"347435","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"107","latitude":"39.0880025000816","longitude":"-84.3465365434197","neighborhood":"N/A"}
+,{"objectid":"255","assetid":"349280","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"92","latitude":"39.0487882488245","longitude":"-84.318848294076","neighborhood":"N/A"}
+,{"objectid":"256","assetid":"452291","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"53","latitude":"39.2851920454392","longitude":"-84.3506066207216","neighborhood":"N/A"}
+,{"objectid":"257","assetid":"342671","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"109","latitude":"39.1235827341532","longitude":"-84.4259520352849","neighborhood":"MT. LOOKOUT"}
+,{"objectid":"258","assetid":"331873","lifecyclestatus":"AB","servicearea":"BR","staticpressure":"53","latitude":"39.2057730221734","longitude":"-84.3923530034772","neighborhood":"N/A"}
+,{"objectid":"259","assetid":"1427086","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"94","latitude":"39.3716785359026","longitude":"-84.2626146837515","neighborhood":"N/A"}
+,{"objectid":"260","assetid":"331682","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"65","latitude":"39.2040360197427","longitude":"-84.5745563437524","neighborhood":"MT. AIRY"}
+,{"objectid":"261","assetid":"350881","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"74","latitude":"39.098730253251","longitude":"-84.5125346598145","neighborhood":"DOWNTOWN"}
+,{"objectid":"262","assetid":"341640","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"147","latitude":"39.1304538960182","longitude":"-84.4288659098481","neighborhood":"HYDE PARK"}
+,{"objectid":"263","assetid":"348601","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"70","latitude":"39.0689117207361","longitude":"-84.36641168982","neighborhood":"N/A"}
+,{"objectid":"264","assetid":"329047","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"71","latitude":"39.2276087118577","longitude":"-84.3744103508345","neighborhood":"N/A"}
+,{"objectid":"265","assetid":"321511","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.2943993296792","longitude":"-84.5073392486158","neighborhood":"N/A"}
+,{"objectid":"266","assetid":"366371","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"129","latitude":"39.2078452439982","longitude":"-84.667377048007","neighborhood":"N/A"}
+,{"objectid":"267","assetid":"377340","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"93","latitude":"39.3641794569608","longitude":"-84.3281565040323","neighborhood":"N/A"}
+,{"objectid":"268","assetid":"334205","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"48","latitude":"39.1870313132718","longitude":"-84.4175099822464","neighborhood":"KENNEDY HEIGHTS"}
+,{"objectid":"269","assetid":"323294","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"81","latitude":"39.2814191941165","longitude":"-84.314549836032","neighborhood":"N/A"}
+,{"objectid":"270","assetid":"559224","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"102","latitude":"39.1462030215149","longitude":"-84.4684832058254","neighborhood":"EVANSTON"}
+,{"objectid":"271","assetid":"468016","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"136","latitude":"39.1269861673301","longitude":"-84.5308727476178","neighborhood":"CUF"}
+,{"objectid":"272","assetid":"339649","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"92","latitude":"39.1400609412902","longitude":"-84.6336949388982","neighborhood":"N/A"}
+,{"objectid":"273","assetid":"457231","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"55","latitude":"39.3633675213213","longitude":"-84.2842264154806","neighborhood":"N/A"}
+,{"objectid":"274","assetid":"551299","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"58","latitude":"39.2290523558368","longitude":"-84.3872713573187","neighborhood":"N/A"}
+,{"objectid":"275","assetid":"377533","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"123","latitude":"39.3313618613635","longitude":"-84.2817740218119","neighborhood":"N/A"}
+,{"objectid":"276","assetid":"322857","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"68","latitude":"39.2860997483571","longitude":"-84.3307592882976","neighborhood":"N/A"}
+,{"objectid":"277","assetid":"502013","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"153","latitude":"39.1503059636404","longitude":"-84.3741252170468","neighborhood":"N/A"}
+,{"objectid":"278","assetid":"337303","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"54","latitude":"39.1547343039683","longitude":"-84.6555343356402","neighborhood":"N/A"}
+,{"objectid":"279","assetid":"2238480","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"117","latitude":"39.1798081018606","longitude":"-84.4383330684665","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"280","assetid":"334369","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"180","latitude":"39.1843845332293","longitude":"-84.4839115131997","neighborhood":"N/A"}
+,{"objectid":"281","assetid":"342472","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"61","latitude":"39.1237685303975","longitude":"-84.4933997180221","neighborhood":"WALNUT HILLS"}
+,{"objectid":"282","assetid":"321504","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.2933415932741","longitude":"-84.572310501358","neighborhood":"N/A"}
+,{"objectid":"283","assetid":"342589","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"144","latitude":"39.124267469078","longitude":"-84.4178071856303","neighborhood":"MT. LOOKOUT"}
+,{"objectid":"284","assetid":"344994","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"61","latitude":"39.1074445473069","longitude":"-84.5209647579675","neighborhood":"WEST END"}
+,{"objectid":"285","assetid":"328759","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.2274014426764","longitude":"-84.5287196832379","neighborhood":"N/A"}
+,{"objectid":"286","assetid":"2171631","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"85","latitude":"39.1420641208895","longitude":"-84.5041782313583","neighborhood":"CORRYVILLE"}
+,{"objectid":"287","assetid":"323728","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"86","latitude":"39.2763343478356","longitude":"-84.319470057054","neighborhood":"N/A"}
+,{"objectid":"288","assetid":"334805","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"54","latitude":"39.1809024339914","longitude":"-84.4044965741097","neighborhood":"N/A"}
+,{"objectid":"289","assetid":"340260","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"68","latitude":"39.1381453718067","longitude":"-84.5484641893735","neighborhood":"SOUTH CUMMINSVILLE"}
+,{"objectid":"290","assetid":"328456","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"117","latitude":"39.2302582660198","longitude":"-84.5233029179257","neighborhood":"N/A"}
+,{"objectid":"291","assetid":"553312","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"56","latitude":"39.2061914291313","longitude":"-84.3968674303085","neighborhood":"N/A"}
+,{"objectid":"292","assetid":"325325","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"111","latitude":"39.2611807165272","longitude":"-84.3050562400132","neighborhood":"N/A"}
+,{"objectid":"293","assetid":"348044","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"58","latitude":"39.0799376399549","longitude":"-84.3131033647842","neighborhood":"N/A"}
+,{"objectid":"294","assetid":"320940","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"97","latitude":"39.301972905571","longitude":"-84.5258349768096","neighborhood":"N/A"}
+,{"objectid":"295","assetid":"344495","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"164","latitude":"39.110882947997","longitude":"-84.5071198830192","neighborhood":"PENDLETON"}
+,{"objectid":"296","assetid":"469937","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"158","latitude":"39.1453247646084","longitude":"-84.3600264588139","neighborhood":"N/A"}
+,{"objectid":"297","assetid":"343269","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"136","latitude":"39.119883341176","longitude":"-84.4217533788599","neighborhood":"COLUMBIA TUSCULUM"}
+,{"objectid":"298","assetid":"338960","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"130","latitude":"39.1485429027921","longitude":"-84.3691800426554","neighborhood":"N/A"}
+,{"objectid":"299","assetid":"324339","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"141","latitude":"39.2686134102006","longitude":"-84.4377713870169","neighborhood":"N/A"}
+,{"objectid":"300","assetid":"330517","lifecyclestatus":"AB","servicearea":"BR","staticpressure":"70","latitude":"39.2151966333388","longitude":"-84.3902066382645","neighborhood":"N/A"}
+,{"objectid":"301","assetid":"337227","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"56","latitude":"39.1560415213178","longitude":"-84.6165274073588","neighborhood":"N/A"}
+,{"objectid":"302","assetid":"334548","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"145","latitude":"39.1831615314398","longitude":"-84.452922433856","neighborhood":"N/A"}
+,{"objectid":"303","assetid":"356535","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"58","latitude":"39.2253091137573","longitude":"-84.727494766382","neighborhood":"N/A"}
+,{"objectid":"304","assetid":"328432","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"77","latitude":"39.2294356389834","longitude":"-84.5810916451232","neighborhood":"N/A"}
+,{"objectid":"305","assetid":"329670","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"59","latitude":"39.2182212293519","longitude":"-84.5989501759601","neighborhood":"N/A"}
+,{"objectid":"306","assetid":"340022","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"48","latitude":"39.1422789236067","longitude":"-84.3932019933668","neighborhood":"N/A"}
+,{"objectid":"307","assetid":"334571","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"58","latitude":"39.1837301667597","longitude":"-84.4030457338816","neighborhood":"KENNEDY HEIGHTS"}
+,{"objectid":"308","assetid":"376882","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"60","latitude":"39.354948037653","longitude":"-84.2898605579826","neighborhood":"N/A"}
+,{"objectid":"309","assetid":"321917","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"78","latitude":"39.2925575813016","longitude":"-84.3782864507078","neighborhood":"N/A"}
+,{"objectid":"310","assetid":"332008","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"70","latitude":"39.201411270299","longitude":"-84.5908546914383","neighborhood":"N/A"}
+,{"objectid":"311","assetid":"326633","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"55","latitude":"39.2481707506915","longitude":"-84.396727473614","neighborhood":"N/A"}
+,{"objectid":"312","assetid":"480769","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"90","latitude":"39.2649367244866","longitude":"-84.7572273289389","neighborhood":"N/A"}
+,{"objectid":"313","assetid":"343288","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"120","latitude":"39.1197550197589","longitude":"-84.4228540831416","neighborhood":"COLUMBIA TUSCULUM"}
+,{"objectid":"314","assetid":"323077","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"60","latitude":"39.2840555454151","longitude":"-84.3358399500877","neighborhood":"N/A"}
+,{"objectid":"315","assetid":"344882","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"77","latitude":"39.1062773687206","longitude":"-84.6279191450592","neighborhood":"N/A"}
+,{"objectid":"316","assetid":"461139","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"124","latitude":"39.1021352762745","longitude":"-84.3872614354682","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"317","assetid":"347479","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"102","latitude":"39.0865104275814","longitude":"-84.4057346291702","neighborhood":"N/A"}
+,{"objectid":"318","assetid":"343352","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"68","latitude":"39.1157134790622","longitude":"-84.633657856965","neighborhood":"N/A"}
+,{"objectid":"319","assetid":"327532","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.2385101286642","longitude":"-84.5319339033069","neighborhood":"N/A"}
+,{"objectid":"320","assetid":"323423","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"53","latitude":"39.2792557938841","longitude":"-84.3498967531611","neighborhood":"N/A"}
+,{"objectid":"321","assetid":"2022849","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"96","latitude":"39.1713382670095","longitude":"-84.7175316639481","neighborhood":"N/A"}
+,{"objectid":"322","assetid":"327474","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"121","latitude":"39.2391786208935","longitude":"-84.5260546154069","neighborhood":"N/A"}
+,{"objectid":"323","assetid":"1330293","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"95","latitude":"39.1442912463956","longitude":"-84.4896396990384","neighborhood":"AVONDALE"}
+,{"objectid":"324","assetid":"325465","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"108","latitude":"39.2558788254309","longitude":"-84.5462026122312","neighborhood":"N/A"}
+,{"objectid":"325","assetid":"341301","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"81","latitude":"39.1311093935028","longitude":"-84.5350106290698","neighborhood":"CAMP WASHINGTON"}
+,{"objectid":"326","assetid":"569130","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"57","latitude":"39.1150939114701","longitude":"-84.6861494745277","neighborhood":"N/A"}
+,{"objectid":"327","assetid":"1378947","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"61","latitude":"39.112350700914","longitude":"-84.5175489473231","neighborhood":"OVER-THE-RHINE"}
+,{"objectid":"328","assetid":"343394","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"63","latitude":"39.1180672172328","longitude":"-84.4896102522463","neighborhood":"WALNUT HILLS"}
+,{"objectid":"329","assetid":"345501","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.1033732253298","longitude":"-84.5701939164267","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"330","assetid":"322411","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"104","latitude":"39.2872716693042","longitude":"-84.4795328545593","neighborhood":"N/A"}
+,{"objectid":"331","assetid":"327460","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.2395948541599","longitude":"-84.5078999850519","neighborhood":"N/A"}
+,{"objectid":"332","assetid":"365868","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"134","latitude":"39.1102743196668","longitude":"-84.3967943312803","neighborhood":"N/A"}
+,{"objectid":"333","assetid":"416397","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"110","latitude":"39.108724523522","longitude":"-84.499860511033","neighborhood":"MT. ADAMS"}
+,{"objectid":"334","assetid":"529130","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"103","latitude":"39.2904368332623","longitude":"-84.5640075710139","neighborhood":"N/A"}
+,{"objectid":"335","assetid":"508710","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"111","latitude":"39.0520724724977","longitude":"-84.3588281884571","neighborhood":"N/A"}
+,{"objectid":"336","assetid":"346003","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"71","latitude":"39.0988782298929","longitude":"-84.6128968298155","neighborhood":"N/A"}
+,{"objectid":"337","assetid":"519892","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"129","latitude":"39.1539278468836","longitude":"-84.7220223572081","neighborhood":"N/A"}
+,{"objectid":"338","assetid":"338146","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.1498817275358","longitude":"-84.6082840765181","neighborhood":"WESTWOOD"}
+,{"objectid":"339","assetid":"349285","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"92","latitude":"39.0480842592296","longitude":"-84.3220456120187","neighborhood":"N/A"}
+,{"objectid":"340","assetid":"506969","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.2389455405531","longitude":"-84.5792300122431","neighborhood":"N/A"}
+,{"objectid":"341","assetid":"328567","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"65","latitude":"39.227328709983","longitude":"-84.6343156082493","neighborhood":"N/A"}
+,{"objectid":"342","assetid":"497988","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"148","latitude":"39.2570332660252","longitude":"-84.7339534534297","neighborhood":"N/A"}
+,{"objectid":"343","assetid":"327335","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"100","latitude":"39.2407835020839","longitude":"-84.5089162211527","neighborhood":"N/A"}
+,{"objectid":"344","assetid":"323133","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.2803690536545","longitude":"-84.5106459831119","neighborhood":"N/A"}
+,{"objectid":"345","assetid":"347110","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"87","latitude":"39.0915082301819","longitude":"-84.3764430842418","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"346","assetid":"337101","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"83","latitude":"39.1583250987392","longitude":"-84.5390991695601","neighborhood":"NORTHSIDE"}
+,{"objectid":"347","assetid":"535501","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"107","latitude":"39.1555314900022","longitude":"-84.5243748315003","neighborhood":"CLIFTON"}
+,{"objectid":"348","assetid":"343747","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"87","latitude":"39.1147855468302","longitude":"-84.5548219283456","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"349","assetid":"343557","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"87","latitude":"39.1146049058729","longitude":"-84.6273299316417","neighborhood":"N/A"}
+,{"objectid":"350","assetid":"322746","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"98","latitude":"39.2848311751103","longitude":"-84.4674028151394","neighborhood":"N/A"}
+,{"objectid":"351","assetid":"2138402","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"54","latitude":"39.1029754504381","longitude":"-84.5102028744124","neighborhood":"DOWNTOWN"}
+,{"objectid":"352","assetid":"346628","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"115","latitude":"39.097560428263","longitude":"-84.3454010280715","neighborhood":"N/A"}
+,{"objectid":"353","assetid":"331935","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"66","latitude":"39.2018061319661","longitude":"-84.5976753674101","neighborhood":"N/A"}
+,{"objectid":"354","assetid":"348832","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"95","latitude":"39.0648484724615","longitude":"-84.3398678819695","neighborhood":"N/A"}
+,{"objectid":"355","assetid":"2001638","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"67","latitude":"39.2003413426744","longitude":"-84.5312187937301","neighborhood":"COLLEGE HILL"}
+,{"objectid":"356","assetid":"341419","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1284555430717","longitude":"-84.6313427732809","neighborhood":"N/A"}
+,{"objectid":"357","assetid":"376794","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"81","latitude":"39.3676449267347","longitude":"-84.3361474857094","neighborhood":"N/A"}
+,{"objectid":"358","assetid":"461737","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.1224948304423","longitude":"-84.5960339335713","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"359","assetid":"347857","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"115","latitude":"39.0814143372107","longitude":"-84.4067792120216","neighborhood":"N/A"}
+,{"objectid":"360","assetid":"501988","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"168","latitude":"39.1515037496212","longitude":"-84.3905928697385","neighborhood":"MADISONVILLE"}
+,{"objectid":"361","assetid":"1387985","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"93","latitude":"39.099196813086","longitude":"-84.3756607969993","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"362","assetid":"335918","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"55","latitude":"39.1710361357695","longitude":"-84.3852037492996","neighborhood":"N/A"}
+,{"objectid":"363","assetid":"509091","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"80","latitude":"39.3556761146822","longitude":"-84.3434353503732","neighborhood":"N/A"}
+,{"objectid":"364","assetid":"323366","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"74","latitude":"39.2764576778795","longitude":"-84.5570188911675","neighborhood":"N/A"}
+,{"objectid":"365","assetid":"509925","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"73","latitude":"39.2310157641388","longitude":"-84.6202877530455","neighborhood":"N/A"}
+,{"objectid":"366","assetid":"329720","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"108","latitude":"39.2165763539483","longitude":"-84.665120299252","neighborhood":"N/A"}
+,{"objectid":"367","assetid":"336343","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"59","latitude":"39.1635347699734","longitude":"-84.6310850140455","neighborhood":"N/A"}
+,{"objectid":"368","assetid":"338350","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"106","latitude":"39.1508171584784","longitude":"-84.484209655001","neighborhood":"AVONDALE"}
+,{"objectid":"369","assetid":"324263","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"63","latitude":"39.2701543930561","longitude":"-84.3823062622257","neighborhood":"N/A"}
+,{"objectid":"370","assetid":"2107651","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"65","latitude":"39.1391178525987","longitude":"-84.3971257663148","neighborhood":"N/A"}
+,{"objectid":"371","assetid":"2465485","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"110","latitude":"39.1384541846833","longitude":"-84.7060054959925","neighborhood":"N/A"}
+,{"objectid":"372","assetid":"2460158","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"209","latitude":"39.1223518872746","longitude":"-84.5526814050109","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"373","assetid":"2467036","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"76","latitude":"39.2286397957832","longitude":"-84.5772235658762","neighborhood":"N/A"}
+,{"objectid":"374","assetid":"2465779","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"78","latitude":"39.2489593093548","longitude":"-84.3510072923118","neighborhood":"N/A"}
+,{"objectid":"375","assetid":"2465753","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"83","latitude":"39.2487014876572","longitude":"-84.3490654594662","neighborhood":"N/A"}
+,{"objectid":"376","assetid":"2466033","lifecyclestatus":"AC","latitude":"39.1390859966219","longitude":"-84.7035968932646","neighborhood":"N/A"}
+,{"objectid":"377","assetid":"2467012","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"75","latitude":"39.2275861246377","longitude":"-84.5775088239136","neighborhood":"N/A"}
+,{"objectid":"378","assetid":"2467050","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.2295726971054","longitude":"-84.5771427967646","neighborhood":"N/A"}
+,{"objectid":"379","assetid":"2467056","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"76","latitude":"39.2289892545669","longitude":"-84.5774536344399","neighborhood":"N/A"}
+,{"objectid":"380","assetid":"2457173","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"99","latitude":"39.1454429461785","longitude":"-84.4683280306239","neighborhood":"EVANSTON"}
+,{"objectid":"381","assetid":"2457053","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"99","latitude":"39.1454682808054","longitude":"-84.4700178207897","neighborhood":"EVANSTON"}
+,{"objectid":"382","assetid":"337375","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"71","latitude":"39.1547040413782","longitude":"-84.6256637057902","neighborhood":"N/A"}
+,{"objectid":"383","assetid":"2127951","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"117","latitude":"39.0868545303316","longitude":"-84.4112948947614","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"384","assetid":"1337568","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"52","latitude":"39.2808410150367","longitude":"-84.3539850949912","neighborhood":"N/A"}
+,{"objectid":"385","assetid":"335724","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1687067790311","longitude":"-84.627616334601","neighborhood":"N/A"}
+,{"objectid":"386","assetid":"322556","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"52","latitude":"39.2882313959255","longitude":"-84.3529134054286","neighborhood":"N/A"}
+,{"objectid":"387","assetid":"321434","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"110","latitude":"39.2946008599788","longitude":"-84.5596265829479","neighborhood":"N/A"}
+,{"objectid":"388","assetid":"366548","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"55","latitude":"39.1531640169115","longitude":"-84.6369006113494","neighborhood":"N/A"}
+,{"objectid":"389","assetid":"336931","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"175","latitude":"39.1620248112401","longitude":"-84.4033781825926","neighborhood":"MADISONVILLE"}
+,{"objectid":"390","assetid":"2273338","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"142","latitude":"39.2560593588166","longitude":"-84.4486897943269","neighborhood":"N/A"}
+,{"objectid":"391","assetid":"2291110","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"179","latitude":"39.1656926479244","longitude":"-84.5370247487837","neighborhood":"NORTHSIDE"}
+,{"objectid":"392","assetid":"2291510","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"183","latitude":"39.1669252065097","longitude":"-84.533040398363","neighborhood":"NORTHSIDE"}
+,{"objectid":"393","assetid":"2291182","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"178","latitude":"39.1654444483825","longitude":"-84.5406040534509","neighborhood":"NORTHSIDE"}
+,{"objectid":"394","assetid":"2421710","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"70","latitude":"39.2507130238904","longitude":"-84.5913549783431","neighborhood":"N/A"}
+,{"objectid":"395","assetid":"2096672","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"79","latitude":"39.0778252873171","longitude":"-84.3325969682012","neighborhood":"N/A"}
+,{"objectid":"396","assetid":"534426","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"116","latitude":"39.2468023726617","longitude":"-84.3130431846864","neighborhood":"N/A"}
+,{"objectid":"397","assetid":"377062","lifecyclestatus":"AC","servicearea":"MR","staticpressure":"87","latitude":"39.3436855500051","longitude":"-84.2836706001819","neighborhood":"N/A"}
+,{"objectid":"398","assetid":"347917","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"67","latitude":"39.0818907109595","longitude":"-84.3236718360013","neighborhood":"N/A"}
+,{"objectid":"399","assetid":"332928","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"156","latitude":"39.1964183597253","longitude":"-84.4602857426984","neighborhood":"ROSELAWN"}
+,{"objectid":"400","assetid":"328803","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.227522595891","longitude":"-84.5019392996479","neighborhood":"N/A"}
+,{"objectid":"401","assetid":"2090017","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"72","latitude":"39.2548119448371","longitude":"-84.3673180736857","neighborhood":"N/A"}
+,{"objectid":"402","assetid":"2274744","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"154","latitude":"39.236459839534","longitude":"-84.4522119396908","neighborhood":"N/A"}
+,{"objectid":"403","assetid":"2274676","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"157","latitude":"39.2386156779927","longitude":"-84.452268187","neighborhood":"N/A"}
+,{"objectid":"404","assetid":"2331330","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"96","latitude":"39.1540625620501","longitude":"-84.4833759258021","neighborhood":"NORTH AVONDALE - PADDOCK HILLS"}
+,{"objectid":"405","assetid":"2325218","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.2165251556054","longitude":"-84.5368813896776","neighborhood":"N/A"}
+,{"objectid":"406","assetid":"2331321","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"94","latitude":"39.1549109219446","longitude":"-84.4835607755497","neighborhood":"NORTH AVONDALE - PADDOCK HILLS"}
+,{"objectid":"407","assetid":"2281166","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1831357836978","longitude":"-84.7122369951615","neighborhood":"N/A"}
+,{"objectid":"408","assetid":"2281386","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.1829686560136","longitude":"-84.6976007589412","neighborhood":"N/A"}
+,{"objectid":"409","assetid":"2281366","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"94","latitude":"39.1827831954804","longitude":"-84.6948260220649","neighborhood":"N/A"}
+,{"objectid":"410","assetid":"2281518","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"156","latitude":"39.1424324273688","longitude":"-84.368958033458","neighborhood":"N/A"}
+,{"objectid":"411","assetid":"2287714","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"124","latitude":"39.3826841117088","longitude":"-84.2649926200643","neighborhood":"N/A"}
+,{"objectid":"412","assetid":"328786","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.2269285091147","longitude":"-84.5425964467166","neighborhood":"N/A"}
+,{"objectid":"413","assetid":"340877","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"94","latitude":"39.1327316087197","longitude":"-84.6208354201682","neighborhood":"N/A"}
+,{"objectid":"414","assetid":"324602","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"65","latitude":"39.2674887851137","longitude":"-84.343999812464","neighborhood":"N/A"}
+,{"objectid":"415","assetid":"330507","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"77","latitude":"39.2131808592553","longitude":"-84.5143795963112","neighborhood":"N/A"}
+,{"objectid":"416","assetid":"329023","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.2234759682432","longitude":"-84.6285780369485","neighborhood":"N/A"}
+,{"objectid":"417","assetid":"530441","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.2090013767153","longitude":"-84.5721695940962","neighborhood":"N/A"}
+,{"objectid":"418","assetid":"521763","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"65","latitude":"39.2161001855495","longitude":"-84.4265608025449","neighborhood":"N/A"}
+,{"objectid":"419","assetid":"2331149","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"136","latitude":"39.1621501370843","longitude":"-84.4882678114757","neighborhood":"NORTH AVONDALE - PADDOCK HILLS"}
+,{"objectid":"420","assetid":"2334734","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"90","latitude":"39.2667932696849","longitude":"-84.7610253088016","neighborhood":"N/A"}
+,{"objectid":"421","assetid":"2334746","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"90","latitude":"39.2659855683048","longitude":"-84.7608983014209","neighborhood":"N/A"}
+,{"objectid":"422","assetid":"2336501","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"199","latitude":"39.1150422410624","longitude":"-84.3903670929628","neighborhood":"N/A"}
+,{"objectid":"423","assetid":"2458167","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"64","latitude":"39.152274271653","longitude":"-84.615618232219","neighborhood":"N/A"}
+,{"objectid":"424","assetid":"2304160","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.2066709457913","longitude":"-84.5833178616942","neighborhood":"N/A"}
+,{"objectid":"425","assetid":"2303497","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"156","latitude":"39.1595389628829","longitude":"-84.3918863961759","neighborhood":"MADISONVILLE"}
+,{"objectid":"426","assetid":"2442192","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"94","latitude":"39.30222292358","longitude":"-84.576329999081","neighborhood":"N/A"}
+,{"objectid":"427","assetid":"2466978","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"80","latitude":"39.2271153858126","longitude":"-84.5754530154496","neighborhood":"N/A"}
+,{"objectid":"428","assetid":"325604","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"64","latitude":"39.2574190421128","longitude":"-84.3769809939798","neighborhood":"N/A"}
+,{"objectid":"429","assetid":"332639","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"45","latitude":"39.1969920941382","longitude":"-84.5614633485611","neighborhood":"COLLEGE HILL"}
+,{"objectid":"430","assetid":"356610","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"55","latitude":"39.2219065339306","longitude":"-84.7212231729955","neighborhood":"N/A"}
+,{"objectid":"431","assetid":"486170","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"110","latitude":"39.2603341661861","longitude":"-84.321110402569","neighborhood":"N/A"}
+,{"objectid":"432","assetid":"331139","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"168","latitude":"39.2100075927775","longitude":"-84.451516135372","neighborhood":"N/A"}
+,{"objectid":"433","assetid":"335401","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"144","latitude":"39.1747230977672","longitude":"-84.4634430319194","neighborhood":"BOND HILL"}
+,{"objectid":"434","assetid":"340007","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"84","latitude":"39.140972316252","longitude":"-84.473929860327","neighborhood":"EVANSTON"}
+,{"objectid":"435","assetid":"346979","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"56","latitude":"39.0891389984346","longitude":"-84.603866626575","neighborhood":"N/A"}
+,{"objectid":"436","assetid":"343684","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"70","latitude":"39.1186174218846","longitude":"-84.3516386587714","neighborhood":"N/A"}
+,{"objectid":"437","assetid":"376943","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"46","latitude":"39.3820254874084","longitude":"-84.3351464134815","neighborhood":"N/A"}
+,{"objectid":"438","assetid":"541394","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"132","latitude":"39.179526685147","longitude":"-84.5391027992912","neighborhood":"NORTHSIDE"}
+,{"objectid":"439","assetid":"338832","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"105","latitude":"39.1467682674239","longitude":"-84.5271978127598","neighborhood":"CLIFTON"}
+,{"objectid":"440","assetid":"2161319","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"97","latitude":"39.1471404233859","longitude":"-84.4927264033643","neighborhood":"AVONDALE"}
+,{"objectid":"441","assetid":"343142","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"88","latitude":"39.1195477530855","longitude":"-84.4857514725571","neighborhood":"EAST WALNUT HILLS"}
+,{"objectid":"442","assetid":"392420","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"158","latitude":"39.2339836732558","longitude":"-84.758489208876","neighborhood":"N/A"}
+,{"objectid":"443","assetid":"374364","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"85","latitude":"39.3443497529495","longitude":"-84.3407273038365","neighborhood":"N/A"}
+,{"objectid":"444","assetid":"322732","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"75","latitude":"39.2841321064121","longitude":"-84.514319903054","neighborhood":"N/A"}
+,{"objectid":"445","assetid":"340558","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.1354658168037","longitude":"-84.5868857145253","neighborhood":"WESTWOOD"}
+,{"objectid":"446","assetid":"334108","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"105","latitude":"39.187423808033","longitude":"-84.4445816465034","neighborhood":"N/A"}
+,{"objectid":"447","assetid":"398698","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"87","latitude":"39.2754182501528","longitude":"-84.7196092644587","neighborhood":"N/A"}
+,{"objectid":"448","assetid":"326318","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"102","latitude":"39.2520197136777","longitude":"-84.3333367527492","neighborhood":"N/A"}
+,{"objectid":"449","assetid":"487600","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"94","latitude":"39.3816786510244","longitude":"-84.2930796211002","neighborhood":"N/A"}
+,{"objectid":"450","assetid":"339742","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"117","latitude":"39.1430729505188","longitude":"-84.4356588372812","neighborhood":"HYDE PARK"}
+,{"objectid":"451","assetid":"336705","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"72","latitude":"39.1603280803532","longitude":"-84.6228782765072","neighborhood":"N/A"}
+,{"objectid":"452","assetid":"364807","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"122","latitude":"39.2481359858363","longitude":"-84.4773578080803","neighborhood":"N/A"}
+,{"objectid":"453","assetid":"326447","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.2466465734354","longitude":"-84.5863388484201","neighborhood":"N/A"}
+,{"objectid":"454","assetid":"514765","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"75","latitude":"39.329696138187","longitude":"-84.3335348415336","neighborhood":"N/A"}
+,{"objectid":"455","assetid":"1351149","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"58","latitude":"39.1416176958374","longitude":"-84.5877873078579","neighborhood":"WESTWOOD"}
+,{"objectid":"456","assetid":"348349","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"107","latitude":"39.0732866590239","longitude":"-84.3897064344683","neighborhood":"N/A"}
+,{"objectid":"457","assetid":"375406","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"83","latitude":"39.3410603555086","longitude":"-84.3091644127345","neighborhood":"N/A"}
+,{"objectid":"458","assetid":"338106","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"140","latitude":"39.1520697306181","longitude":"-84.5009746484598","neighborhood":"AVONDALE"}
+,{"objectid":"459","assetid":"452634","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"108","latitude":"39.2657300915817","longitude":"-84.4953661799244","neighborhood":"N/A"}
+,{"objectid":"460","assetid":"328369","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.2298321038424","longitude":"-84.5857375434742","neighborhood":"N/A"}
+,{"objectid":"461","assetid":"331382","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"67","latitude":"39.2063143454759","longitude":"-84.5746822320752","neighborhood":"N/A"}
+,{"objectid":"462","assetid":"323838","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"111","latitude":"39.2688726435662","longitude":"-84.6902780145227","neighborhood":"N/A"}
+,{"objectid":"463","assetid":"2172797","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"59","latitude":"39.1238429083615","longitude":"-84.4801805743669","neighborhood":"EAST WALNUT HILLS"}
+,{"objectid":"464","assetid":"335224","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"147","latitude":"39.1760951538252","longitude":"-84.4629547598742","neighborhood":"BOND HILL"}
+,{"objectid":"465","assetid":"327777","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"108","latitude":"39.235662564283","longitude":"-84.5741852905794","neighborhood":"N/A"}
+,{"objectid":"466","assetid":"346615","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"80","latitude":"39.0924715806293","longitude":"-84.6476778582404","neighborhood":"RIVERSIDE"}
+,{"objectid":"467","assetid":"335524","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"53","latitude":"39.1748796036833","longitude":"-84.3887901078729","neighborhood":"N/A"}
+,{"objectid":"468","assetid":"498314","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"52","latitude":"39.12131756426","longitude":"-84.6251970777072","neighborhood":"N/A"}
+,{"objectid":"469","assetid":"561570","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"74","latitude":"39.2188907334078","longitude":"-84.3971401087732","neighborhood":"N/A"}
+,{"objectid":"470","assetid":"346218","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"65","latitude":"39.0987985732393","longitude":"-84.5172994172957","neighborhood":"DOWNTOWN"}
+,{"objectid":"471","assetid":"546902","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"73","latitude":"39.1099130608956","longitude":"-84.5786947786577","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"472","assetid":"329619","lifecyclestatus":"AB","servicearea":"CR","staticpressure":"114","latitude":"39.2169694624828","longitude":"-84.6939937998812","neighborhood":"N/A"}
+,{"objectid":"473","assetid":"326159","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"141","latitude":"39.2521689271797","longitude":"-84.4174508292508","neighborhood":"N/A"}
+,{"objectid":"474","assetid":"1414667","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"97","latitude":"39.1239882190821","longitude":"-84.5784303464972","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"475","assetid":"326713","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"103","latitude":"39.2450573901817","longitude":"-84.5433750405552","neighborhood":"N/A"}
+,{"objectid":"476","assetid":"336771","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.159815576556","longitude":"-84.6208082733535","neighborhood":"N/A"}
+,{"objectid":"477","assetid":"326524","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"82","latitude":"39.2495874688144","longitude":"-84.3720016875207","neighborhood":"N/A"}
+,{"objectid":"478","assetid":"321611","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"117","latitude":"39.2923660046237","longitude":"-84.562145910155","neighborhood":"N/A"}
+,{"objectid":"479","assetid":"333701","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.1877578183717","longitude":"-84.627778230736","neighborhood":"N/A"}
+,{"objectid":"480","assetid":"2234103","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"118","latitude":"39.1793125977985","longitude":"-84.5448086031069","neighborhood":"NORTHSIDE"}
+,{"objectid":"481","assetid":"340236","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"108","latitude":"39.1402436064307","longitude":"-84.4339865061447","neighborhood":"HYDE PARK"}
+,{"objectid":"482","assetid":"347786","lifecyclestatus":"AC","servicearea":"EHR","staticpressure":"54","latitude":"39.0790359887921","longitude":"-84.5988509440628","neighborhood":"RIVERSIDE"}
+,{"objectid":"483","assetid":"338261","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"165","latitude":"39.1509410791784","longitude":"-84.5101539249771","neighborhood":"CLIFTON"}
+,{"objectid":"484","assetid":"481060","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"123","latitude":"39.236696537274","longitude":"-84.5198968618768","neighborhood":"N/A"}
+,{"objectid":"485","assetid":"338676","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.146666137737","longitude":"-84.5968405547322","neighborhood":"WESTWOOD"}
+,{"objectid":"486","assetid":"324916","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"87","latitude":"39.2637195942249","longitude":"-84.4002719220038","neighborhood":"N/A"}
+,{"objectid":"487","assetid":"335949","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"127","latitude":"39.164788813588","longitude":"-84.725953125107","neighborhood":"N/A"}
+,{"objectid":"488","assetid":"335986","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"79","latitude":"39.1684516657297","longitude":"-84.5096512916766","neighborhood":"SPRING GROVE VILLAGE"}
+,{"objectid":"489","assetid":"2171546","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"93","latitude":"39.1428965685574","longitude":"-84.5015715646589","neighborhood":"AVONDALE"}
+,{"objectid":"490","assetid":"332319","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"62","latitude":"39.202198483785","longitude":"-84.4089097642103","neighborhood":"N/A"}
+,{"objectid":"491","assetid":"541711","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"73","latitude":"39.1403581158806","longitude":"-84.6695780045544","neighborhood":"N/A"}
+,{"objectid":"492","assetid":"473209","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"64","latitude":"39.0945490257502","longitude":"-84.3346060368024","neighborhood":"N/A"}
+,{"objectid":"493","assetid":"455166","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"65","latitude":"39.3671086982801","longitude":"-84.2871322375671","neighborhood":"N/A"}
+,{"objectid":"494","assetid":"532106","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"139","latitude":"39.1721665758786","longitude":"-84.4270931400901","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"495","assetid":"321048","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"104","latitude":"39.3003719973735","longitude":"-84.5367515941036","neighborhood":"N/A"}
+,{"objectid":"496","assetid":"332000","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"68","latitude":"39.2045932221879","longitude":"-84.4111407843677","neighborhood":"N/A"}
+,{"objectid":"497","assetid":"348250","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"59","latitude":"39.076457234088","longitude":"-84.312988152743","neighborhood":"N/A"}
+,{"objectid":"498","assetid":"322540","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"99","latitude":"39.2879040704893","longitude":"-84.3821243376957","neighborhood":"N/A"}
+,{"objectid":"499","assetid":"346450","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"105","latitude":"39.098913741576","longitude":"-84.3787128865291","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"500","assetid":"388139","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"103","latitude":"39.2667881963424","longitude":"-84.6598396177304","neighborhood":"N/A"}
+,{"objectid":"501","assetid":"340257","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"60","latitude":"39.1371660840719","longitude":"-84.6037986077183","neighborhood":"WESTWOOD"}
+,{"objectid":"502","assetid":"544974","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"50","latitude":"39.1609885927296","longitude":"-84.6394025600331","neighborhood":"N/A"}
+,{"objectid":"503","assetid":"526594","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"110","latitude":"39.1745022237318","longitude":"-84.4282181319408","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"504","assetid":"344922","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.1067234270658","longitude":"-84.592019821528","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"505","assetid":"341152","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"92","latitude":"39.1311991070933","longitude":"-84.5924131801946","neighborhood":"WESTWOOD"}
+,{"objectid":"506","assetid":"323631","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"80","latitude":"39.2773246319066","longitude":"-84.3179989266752","neighborhood":"N/A"}
+,{"objectid":"507","assetid":"532764","lifecyclestatus":"AC","servicearea":"BJ","staticpressure":"57","latitude":"39.2255823824657","longitude":"-84.7302234848972","neighborhood":"N/A"}
+,{"objectid":"508","assetid":"483607","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"102","latitude":"39.2421526321574","longitude":"-84.5141286796842","neighborhood":"N/A"}
+,{"objectid":"509","assetid":"349188","lifecyclestatus":"AC","servicearea":"CA","staticpressure":"81","latitude":"39.0528078812053","longitude":"-84.4084801202837","neighborhood":"N/A"}
+,{"objectid":"510","assetid":"328211","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"58","latitude":"39.2303038399018","longitude":"-84.6455358120886","neighborhood":"N/A"}
+,{"objectid":"511","assetid":"1358416","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"57","latitude":"39.1511792589026","longitude":"-84.6102831773887","neighborhood":"N/A"}
+,{"objectid":"512","assetid":"1317418","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.2214560908481","longitude":"-84.514582556626","neighborhood":"N/A"}
+,{"objectid":"513","assetid":"336765","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"152","latitude":"39.1616866030051","longitude":"-84.5180235148938","neighborhood":"CLIFTON"}
+,{"objectid":"514","assetid":"333374","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"160","latitude":"39.1929979771972","longitude":"-84.4596316639126","neighborhood":"ROSELAWN"}
+,{"objectid":"515","assetid":"472101","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"73","latitude":"39.0792050373913","longitude":"-84.3543628304763","neighborhood":"N/A"}
+,{"objectid":"646","assetid":"342263","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"64","latitude":"39.1231317471275","longitude":"-84.6139541415336","neighborhood":"N/A"}
+,{"objectid":"647","assetid":"327351","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.2392879981867","longitude":"-84.5860022171945","neighborhood":"N/A"}
+,{"objectid":"648","assetid":"344457","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.110282432169","longitude":"-84.5561618397684","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"649","assetid":"357141","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"77","latitude":"39.1802626820596","longitude":"-84.5843575291989","neighborhood":"N/A"}
+,{"objectid":"650","assetid":"325932","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"105","latitude":"39.2515999590239","longitude":"-84.5569409500265","neighborhood":"N/A"}
+,{"objectid":"651","assetid":"347033","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"76","latitude":"39.0882613847914","longitude":"-84.6206087050983","neighborhood":"N/A"}
+,{"objectid":"652","assetid":"329540","lifecyclestatus":"AB","servicearea":"BR","staticpressure":"61","latitude":"39.222824633188","longitude":"-84.3922240599372","neighborhood":"N/A"}
+,{"objectid":"653","assetid":"332685","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.1962676734963","longitude":"-84.5799860969465","neighborhood":"MT. AIRY"}
+,{"objectid":"654","assetid":"327424","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"87","latitude":"39.2426201989588","longitude":"-84.348293084565","neighborhood":"N/A"}
+,{"objectid":"655","assetid":"328237","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.2315362962066","longitude":"-84.5646382125802","neighborhood":"N/A"}
+,{"objectid":"656","assetid":"344549","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.1093232772622","longitude":"-84.5766966788613","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"657","assetid":"333982","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"119","latitude":"39.1885087279698","longitude":"-84.4459574116124","neighborhood":"N/A"}
+,{"objectid":"658","assetid":"330132","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"126","latitude":"39.2136736853827","longitude":"-84.6338942854654","neighborhood":"N/A"}
+,{"objectid":"659","assetid":"343967","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"136","latitude":"39.1173357611382","longitude":"-84.3208760522647","neighborhood":"N/A"}
+,{"objectid":"660","assetid":"509011","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"119","latitude":"39.1294449142989","longitude":"-84.5833153988421","neighborhood":"WESTWOOD"}
+,{"objectid":"661","assetid":"338437","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.1476546865517","longitude":"-84.6303849352298","neighborhood":"N/A"}
+,{"objectid":"662","assetid":"416396","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"94","latitude":"39.1091172631707","longitude":"-84.4986511635332","neighborhood":"MT. ADAMS"}
+,{"objectid":"663","assetid":"331182","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"172","latitude":"39.2094129632023","longitude":"-84.4699677046027","neighborhood":"HARTWELL"}
+,{"objectid":"664","assetid":"375078","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"79","latitude":"39.3339557879519","longitude":"-84.3143516427671","neighborhood":"N/A"}
+,{"objectid":"665","assetid":"344663","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"78","latitude":"39.1090892082342","longitude":"-84.5514952863996","neighborhood":"LOWER PRICE HILL"}
+,{"objectid":"666","assetid":"509727","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"100","latitude":"39.2176951804418","longitude":"-84.4104303060968","neighborhood":"N/A"}
+,{"objectid":"667","assetid":"343431","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.1149170594578","longitude":"-84.6525108443494","neighborhood":"N/A"}
+,{"objectid":"668","assetid":"2174237","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"81","latitude":"39.1133094569519","longitude":"-84.5634468719847","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"669","assetid":"2086735","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"100","latitude":"39.2553357330585","longitude":"-84.3345414956469","neighborhood":"N/A"}
+,{"objectid":"670","assetid":"321349","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"81","latitude":"39.2955700393525","longitude":"-84.5722782506675","neighborhood":"N/A"}
+,{"objectid":"671","assetid":"366117","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"121","latitude":"39.1988400626092","longitude":"-84.6443721826878","neighborhood":"N/A"}
+,{"objectid":"672","assetid":"1981011","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"94","latitude":"39.1412302517818","longitude":"-84.5139130370504","neighborhood":"CLIFTON"}
+,{"objectid":"673","assetid":"321512","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"77","latitude":"39.2944248279341","longitude":"-84.5057336161459","neighborhood":"N/A"}
+,{"objectid":"674","assetid":"321047","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"54","latitude":"39.3011864024058","longitude":"-84.4910282689623","neighborhood":"N/A"}
+,{"objectid":"675","assetid":"494206","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.1080349803127","longitude":"-84.6725660024452","neighborhood":"N/A"}
+,{"objectid":"676","assetid":"539218","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"126","latitude":"39.1332214521974","longitude":"-84.4302588395738","neighborhood":"HYDE PARK"}
+,{"objectid":"677","assetid":"482333","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"64","latitude":"39.3615049126612","longitude":"-84.3063054379232","neighborhood":"N/A"}
+,{"objectid":"678","assetid":"506799","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"85","latitude":"39.205305889448","longitude":"-84.3628067245053","neighborhood":"N/A"}
+,{"objectid":"679","assetid":"333090","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"53","latitude":"39.1928143297507","longitude":"-84.5952829411708","neighborhood":"N/A"}
+,{"objectid":"680","assetid":"348780","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"105","latitude":"39.0650565502048","longitude":"-84.3926682627801","neighborhood":"N/A"}
+,{"objectid":"681","assetid":"332056","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.2013426517301","longitude":"-84.5758815435365","neighborhood":"MT. AIRY"}
+,{"objectid":"682","assetid":"2097667","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"99","latitude":"39.3730044789135","longitude":"-84.2692827855748","neighborhood":"N/A"}
+,{"objectid":"683","assetid":"339409","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"169","latitude":"39.1461747756465","longitude":"-84.3554738446342","neighborhood":"N/A"}
+,{"objectid":"684","assetid":"321600","lifecyclestatus":"AB","servicearea":"BR","staticpressure":"108","latitude":"39.2956091248301","longitude":"-84.3787958033797","neighborhood":"N/A"}
+,{"objectid":"685","assetid":"322262","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"49","latitude":"39.2905121027107","longitude":"-84.3499169545158","neighborhood":"N/A"}
+,{"objectid":"686","assetid":"375051","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"68","latitude":"39.2651965635524","longitude":"-84.5694461604325","neighborhood":"N/A"}
+,{"objectid":"687","assetid":"521891","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"92","latitude":"39.1467552359952","longitude":"-84.6959075935258","neighborhood":"N/A"}
+,{"objectid":"688","assetid":"322921","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"70","latitude":"39.2823118243821","longitude":"-84.5242443547647","neighborhood":"N/A"}
+,{"objectid":"689","assetid":"323723","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"85","latitude":"39.2731796788589","longitude":"-84.5132035029244","neighborhood":"N/A"}
+,{"objectid":"690","assetid":"332524","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"91","latitude":"39.2011882298065","longitude":"-84.3695070408895","neighborhood":"N/A"}
+,{"objectid":"691","assetid":"570165","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"104","latitude":"39.3926089751128","longitude":"-84.2970360783518","neighborhood":"N/A"}
+,{"objectid":"692","assetid":"338019","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.1514694048002","longitude":"-84.5679160130417","neighborhood":"EAST WESTWOOD"}
+,{"objectid":"693","assetid":"2228536","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"62","latitude":"39.2442168723008","longitude":"-84.3911783731802","neighborhood":"N/A"}
+,{"objectid":"694","assetid":"416072","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"56","latitude":"39.3601271882448","longitude":"-84.3142060183636","neighborhood":"N/A"}
+,{"objectid":"695","assetid":"320718","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"138","latitude":"39.3061751578234","longitude":"-84.5531252675816","neighborhood":"N/A"}
+,{"objectid":"696","assetid":"327998","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"74","latitude":"39.23739055986","longitude":"-84.3568509242732","neighborhood":"N/A"}
+,{"objectid":"697","assetid":"323123","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"80","latitude":"39.2808750706925","longitude":"-84.495635920955","neighborhood":"N/A"}
+,{"objectid":"698","assetid":"527349","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"76","latitude":"39.2160114955496","longitude":"-84.519748688033","neighborhood":"N/A"}
+,{"objectid":"699","assetid":"344333","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"88","latitude":"39.1140177956094","longitude":"-84.3834873246133","neighborhood":"N/A"}
+,{"objectid":"700","assetid":"1330289","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"124","latitude":"39.1435939063191","longitude":"-84.484268161269","neighborhood":"AVONDALE"}
+,{"objectid":"701","assetid":"328223","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"115","latitude":"39.2358615098261","longitude":"-84.3135234304055","neighborhood":"N/A"}
+,{"objectid":"702","assetid":"328540","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"81","latitude":"39.2290401032191","longitude":"-84.5498745429741","neighborhood":"N/A"}
+,{"objectid":"703","assetid":"462987","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"111","latitude":"39.1894694581058","longitude":"-84.6674036948205","neighborhood":"N/A"}
+,{"objectid":"704","assetid":"330703","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.2103685787298","longitude":"-84.594463025979","neighborhood":"N/A"}
+,{"objectid":"705","assetid":"336767","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"48","latitude":"39.1600048818241","longitude":"-84.6118625519994","neighborhood":"N/A"}
+,{"objectid":"706","assetid":"1391694","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"129","latitude":"39.1563825749095","longitude":"-84.4740990403298","neighborhood":"NORTH AVONDALE - PADDOCK HILLS"}
+,{"objectid":"707","assetid":"371918","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"75","latitude":"39.3312470725187","longitude":"-84.3369673197228","neighborhood":"N/A"}
+,{"objectid":"708","assetid":"462614","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.1980553060352","longitude":"-84.5893417725459","neighborhood":"N/A"}
+,{"objectid":"709","assetid":"344431","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"128","latitude":"39.1082558196177","longitude":"-84.6774492315486","neighborhood":"N/A"}
+,{"objectid":"710","assetid":"2132574","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.2219534885993","longitude":"-84.5790605705364","neighborhood":"N/A"}
+,{"objectid":"711","assetid":"1453690","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"76","latitude":"39.1380386723996","longitude":"-84.4758813200791","neighborhood":"EVANSTON"}
+,{"objectid":"712","assetid":"339261","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1422896052333","longitude":"-84.6306067834193","neighborhood":"N/A"}
+,{"objectid":"713","assetid":"328790","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"97","latitude":"39.2263634937062","longitude":"-84.5732557519958","neighborhood":"N/A"}
+,{"objectid":"714","assetid":"403498","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"76","latitude":"39.1935579315515","longitude":"-84.3928909341802","neighborhood":"N/A"}
+,{"objectid":"715","assetid":"335920","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"185","latitude":"39.1691101030061","longitude":"-84.5003207958235","neighborhood":"N/A"}
+,{"objectid":"716","assetid":"343988","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"79","latitude":"39.1136810659094","longitude":"-84.5304840626067","neighborhood":"WEST END"}
+,{"objectid":"717","assetid":"377110","lifecyclestatus":"AB","servicearea":"MN","staticpressure":"73","latitude":"39.3607276810652","longitude":"-84.280190757691","neighborhood":"N/A"}
+,{"objectid":"718","assetid":"326291","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"114","latitude":"39.2486843896412","longitude":"-84.547704417655","neighborhood":"N/A"}
+,{"objectid":"719","assetid":"344103","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.111429622519","longitude":"-84.6139958476851","neighborhood":"N/A"}
+,{"objectid":"720","assetid":"2038720","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"62","latitude":"39.1326460555665","longitude":"-84.497441903851","neighborhood":"AVONDALE"}
+,{"objectid":"721","assetid":"1341231","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"171","latitude":"39.1669468438437","longitude":"-84.5537785307712","neighborhood":"MT. AIRY"}
+,{"objectid":"722","assetid":"2231034","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"181","latitude":"39.19751686476","longitude":"-84.6879297634237","neighborhood":"N/A"}
+,{"objectid":"723","assetid":"346244","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"155","latitude":"39.0973589434194","longitude":"-84.5856437377295","neighborhood":"N/A"}
+,{"objectid":"724","assetid":"1447579","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"71","latitude":"39.2023707669986","longitude":"-84.5301489064995","neighborhood":"N/A"}
+,{"objectid":"725","assetid":"328530","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"53","latitude":"39.2319203804719","longitude":"-84.3880614725125","neighborhood":"N/A"}
+,{"objectid":"726","assetid":"349196","lifecyclestatus":"AC","servicearea":"CA","staticpressure":"82","latitude":"39.052490236519","longitude":"-84.4075059758101","neighborhood":"N/A"}
+,{"objectid":"727","assetid":"342467","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"129","latitude":"39.1231304006895","longitude":"-84.530647731252","neighborhood":"CUF"}
+,{"objectid":"728","assetid":"533510","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"50","latitude":"39.155575015271","longitude":"-84.6064991167701","neighborhood":"N/A"}
+,{"objectid":"729","assetid":"1387951","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"99","latitude":"39.0987929927666","longitude":"-84.3744740471167","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"730","assetid":"340494","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"157","latitude":"39.1398029826775","longitude":"-84.3518108827824","neighborhood":"N/A"}
+,{"objectid":"731","assetid":"334605","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"161","latitude":"39.1813588922049","longitude":"-84.5120171801125","neighborhood":"WINTON HILLS"}
+,{"objectid":"732","assetid":"394656","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"70","latitude":"39.3224641865843","longitude":"-84.3065877936981","neighborhood":"N/A"}
+,{"objectid":"733","assetid":"1317231","lifecyclestatus":"AC","servicearea":"EAR","staticpressure":"76","latitude":"39.215246684384","longitude":"-84.4551927094524","neighborhood":"N/A"}
+,{"objectid":"734","assetid":"326590","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"81","latitude":"39.2452606527198","longitude":"-84.5906310593155","neighborhood":"N/A"}
+,{"objectid":"735","assetid":"328090","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"74","latitude":"39.2365157516744","longitude":"-84.357015390511","neighborhood":"N/A"}
+,{"objectid":"736","assetid":"492207","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.1127060901464","longitude":"-84.6087814526228","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"737","assetid":"484532","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"172","latitude":"39.2156223343205","longitude":"-84.4756583461931","neighborhood":"N/A"}
+,{"objectid":"738","assetid":"328273","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"122","latitude":"39.235420518756","longitude":"-84.3098501484114","neighborhood":"N/A"}
+,{"objectid":"739","assetid":"342768","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"77","latitude":"39.1216464728941","longitude":"-84.5126321880859","neighborhood":"MT. AUBURN"}
+,{"objectid":"740","assetid":"341578","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"66","latitude":"39.1260594326314","longitude":"-84.7003994258442","neighborhood":"SAYLER PARK"}
+,{"objectid":"741","assetid":"349324","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"230","latitude":"39.0381270258117","longitude":"-84.332317996584","neighborhood":"N/A"}
+,{"objectid":"742","assetid":"483616","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"115","latitude":"39.2474590963376","longitude":"-84.5060645784145","neighborhood":"N/A"}
+,{"objectid":"743","assetid":"530871","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"205","latitude":"39.1084790919934","longitude":"-84.4218274130791","neighborhood":"LINWOOD"}
+,{"objectid":"744","assetid":"348399","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"96","latitude":"39.072927732999","longitude":"-84.3492611575098","neighborhood":"N/A"}
+,{"objectid":"745","assetid":"338563","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"98","latitude":"39.1480788823527","longitude":"-84.5598231151774","neighborhood":"MILLVALE"}
+,{"objectid":"746","assetid":"324799","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"72","latitude":"39.2618907951816","longitude":"-84.5722707984669","neighborhood":"N/A"}
+,{"objectid":"747","assetid":"343888","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"79","latitude":"39.1114339365284","longitude":"-84.6929215307943","neighborhood":"SAYLER PARK"}
+,{"objectid":"748","assetid":"346943","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.089206277511","longitude":"-84.6230011793615","neighborhood":"N/A"}
+,{"objectid":"749","assetid":"483204","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"63","latitude":"39.1811025330745","longitude":"-84.7068384555549","neighborhood":"N/A"}
+,{"objectid":"750","assetid":"325906","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.2514287913996","longitude":"-84.5799555028688","neighborhood":"N/A"}
+,{"objectid":"751","assetid":"345757","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"80","latitude":"39.0997723940561","longitude":"-84.6689648765994","neighborhood":"RIVERSIDE"}
+,{"objectid":"752","assetid":"324365","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"64","latitude":"39.2669588018705","longitude":"-84.5216626902682","neighborhood":"N/A"}
+,{"objectid":"753","assetid":"333357","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"157","latitude":"39.1929900419867","longitude":"-84.4650502466323","neighborhood":"ROSELAWN"}
+,{"objectid":"754","assetid":"329395","lifecyclestatus":"AB","servicearea":"BR","staticpressure":"60","latitude":"39.2243650109538","longitude":"-84.3906546718083","neighborhood":"N/A"}
+,{"objectid":"755","assetid":"337205","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.1561052442686","longitude":"-84.6222759384084","neighborhood":"N/A"}
+,{"objectid":"756","assetid":"347781","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"91","latitude":"39.0832833313515","longitude":"-84.3554424116597","neighborhood":"N/A"}
+,{"objectid":"757","assetid":"340585","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"104","latitude":"39.137705508556","longitude":"-84.4486131797293","neighborhood":"HYDE PARK"}
+,{"objectid":"758","assetid":"345287","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.1048447062898","longitude":"-84.5635095479865","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"759","assetid":"397678","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"86","latitude":"39.3406188789749","longitude":"-84.3211459502484","neighborhood":"N/A"}
+,{"objectid":"760","assetid":"370598","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"160","latitude":"39.2994054193915","longitude":"-84.4354726668943","neighborhood":"N/A"}
+,{"objectid":"761","assetid":"343833","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"65","latitude":"39.1151303821511","longitude":"-84.5073290940605","neighborhood":"MT. AUBURN"}
+,{"objectid":"762","assetid":"343174","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"63","latitude":"39.1172287509927","longitude":"-84.6084363190511","neighborhood":"N/A"}
+,{"objectid":"763","assetid":"484511","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"158","latitude":"39.144732188979","longitude":"-84.3835178645375","neighborhood":"N/A"}
+,{"objectid":"764","assetid":"323784","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"45","latitude":"39.2709048640865","longitude":"-84.607586095724","neighborhood":"N/A"}
+,{"objectid":"765","assetid":"323117","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.2785087564717","longitude":"-84.6311408119629","neighborhood":"N/A"}
+,{"objectid":"766","assetid":"484508","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"158","latitude":"39.1443081952743","longitude":"-84.3847851321281","neighborhood":"N/A"}
+,{"objectid":"767","assetid":"335921","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"54","latitude":"39.1709227673479","longitude":"-84.391525204366","neighborhood":"N/A"}
+,{"objectid":"768","assetid":"331720","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"54","latitude":"39.2048515596166","longitude":"-84.5113258625347","neighborhood":"N/A"}
+,{"objectid":"769","assetid":"326806","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"80","latitude":"39.2435326989131","longitude":"-84.5894367040872","neighborhood":"N/A"}
+,{"objectid":"770","assetid":"320577","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"86","latitude":"39.3142414895394","longitude":"-84.6220958120389","neighborhood":"N/A"}
+,{"objectid":"771","assetid":"347059","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"74","latitude":"39.0928841313708","longitude":"-84.3255399781011","neighborhood":"N/A"}
+,{"objectid":"772","assetid":"329322","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"94","latitude":"39.2219197415739","longitude":"-84.5744602613723","neighborhood":"N/A"}
+,{"objectid":"773","assetid":"330581","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"70","latitude":"39.2112597861702","longitude":"-84.595390520439","neighborhood":"N/A"}
+,{"objectid":"774","assetid":"333253","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"123","latitude":"39.1904303369934","longitude":"-84.6564707224098","neighborhood":"N/A"}
+,{"objectid":"775","assetid":"333937","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"160","latitude":"39.1882584069073","longitude":"-84.4791082520183","neighborhood":"ROSELAWN"}
+,{"objectid":"776","assetid":"339737","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.1390877748437","longitude":"-84.6623527406795","neighborhood":"N/A"}
+,{"objectid":"777","assetid":"338485","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"67","latitude":"39.1477663754277","longitude":"-84.6022380286622","neighborhood":"WESTWOOD"}
+,{"objectid":"778","assetid":"332759","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"118","latitude":"39.1943339469005","longitude":"-84.6560825134761","neighborhood":"N/A"}
+,{"objectid":"779","assetid":"373899","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"77","latitude":"39.3372801206362","longitude":"-84.3366839005152","neighborhood":"N/A"}
+,{"objectid":"780","assetid":"326683","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.2445759428626","longitude":"-84.5826302614776","neighborhood":"N/A"}
+,{"objectid":"781","assetid":"321132","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"99","latitude":"39.2992322809433","longitude":"-84.5350275793848","neighborhood":"N/A"}
+,{"objectid":"782","assetid":"332826","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"88","latitude":"39.1960859257019","longitude":"-84.5276746316272","neighborhood":"COLLEGE HILL"}
+,{"objectid":"783","assetid":"343924","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"100","latitude":"39.1113770917176","longitude":"-84.679542595098","neighborhood":"SAYLER PARK"}
+,{"objectid":"784","assetid":"334928","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"183","latitude":"39.1781100292737","longitude":"-84.4962881080321","neighborhood":"N/A"}
+,{"objectid":"785","assetid":"503319","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"157","latitude":"39.2040892860862","longitude":"-84.6802200636893","neighborhood":"N/A"}
+,{"objectid":"786","assetid":"348185","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"87","latitude":"39.0772225503634","longitude":"-84.3348447872036","neighborhood":"N/A"}
+,{"objectid":"787","assetid":"348286","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"112","latitude":"39.0744558596384","longitude":"-84.394420612505","neighborhood":"N/A"}
+,{"objectid":"788","assetid":"335732","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"176","latitude":"39.1710122484608","longitude":"-84.4951850491383","neighborhood":"N/A"}
+,{"objectid":"789","assetid":"1445691","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"98","latitude":"39.3721204993846","longitude":"-84.2719718172469","neighborhood":"N/A"}
+,{"objectid":"790","assetid":"530995","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"171","latitude":"39.1614197164463","longitude":"-84.4058271172189","neighborhood":"MADISONVILLE"}
+,{"objectid":"791","assetid":"521893","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.1487855342801","longitude":"-84.6912724735255","neighborhood":"N/A"}
+,{"objectid":"792","assetid":"340332","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"107","latitude":"39.1373362730666","longitude":"-84.5672878652997","neighborhood":"NORTH FAIRMOUNT"}
+,{"objectid":"793","assetid":"347914","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"90","latitude":"39.0815972664023","longitude":"-84.3467714677707","neighborhood":"N/A"}
+,{"objectid":"794","assetid":"335366","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1734536279154","longitude":"-84.5545299452768","neighborhood":"MT. AIRY"}
+,{"objectid":"795","assetid":"323292","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"73","latitude":"39.2773701808574","longitude":"-84.55914809576","neighborhood":"N/A"}
+,{"objectid":"796","assetid":"1368889","lifecyclestatus":"AB","servicearea":"MN","staticpressure":"69","latitude":"39.3762772745266","longitude":"-84.3074736337408","neighborhood":"N/A"}
+,{"objectid":"797","assetid":"340137","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"79","latitude":"39.138283181648","longitude":"-84.5848336462725","neighborhood":"WESTWOOD"}
+,{"objectid":"798","assetid":"322422","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"67","latitude":"39.288874396229","longitude":"-84.37903069481","neighborhood":"N/A"}
+,{"objectid":"799","assetid":"471003","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"117","latitude":"39.1756018980778","longitude":"-84.4354609938623","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"800","assetid":"348757","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"108","latitude":"39.0661750849713","longitude":"-84.3492378594251","neighborhood":"N/A"}
+,{"objectid":"801","assetid":"502009","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"160","latitude":"39.1467416128533","longitude":"-84.3764037177282","neighborhood":"N/A"}
+,{"objectid":"802","assetid":"321631","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"45","latitude":"39.2955270737667","longitude":"-84.3602205964001","neighborhood":"N/A"}
+,{"objectid":"803","assetid":"519448","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.1493902535602","longitude":"-84.6309733452482","neighborhood":"N/A"}
+,{"objectid":"804","assetid":"344536","lifecyclestatus":"AB","servicearea":"CE","staticpressure":"58","latitude":"39.1105401667339","longitude":"-84.5128895259131","neighborhood":"OVER-THE-RHINE"}
+,{"objectid":"805","assetid":"2185434","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.219815619546","longitude":"-84.5609190259491","neighborhood":"N/A"}
+,{"objectid":"806","assetid":"326039","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"97","latitude":"39.2477840570019","longitude":"-84.7183378295556","neighborhood":"N/A"}
+,{"objectid":"807","assetid":"324611","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"55","latitude":"39.2636460403036","longitude":"-84.56707500674","neighborhood":"N/A"}
+,{"objectid":"808","assetid":"514578","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"80","latitude":"39.1368427111577","longitude":"-84.6657682960388","neighborhood":"N/A"}
+,{"objectid":"809","assetid":"334822","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"66","latitude":"39.1806874222708","longitude":"-84.4098541351371","neighborhood":"KENNEDY HEIGHTS"}
+,{"objectid":"810","assetid":"401993","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"49","latitude":"39.3506897016798","longitude":"-84.3110308266049","neighborhood":"N/A"}
+,{"objectid":"811","assetid":"320963","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"121","latitude":"39.3024825880603","longitude":"-84.470668414413","neighborhood":"N/A"}
+,{"objectid":"812","assetid":"330664","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"73","latitude":"39.2107098426695","longitude":"-84.5921700908756","neighborhood":"N/A"}
+,{"objectid":"813","assetid":"388661","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"137","latitude":"39.1170003477141","longitude":"-84.5143992787397","neighborhood":"OVER-THE-RHINE"}
+,{"objectid":"814","assetid":"323613","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.2736758533274","longitude":"-84.5528744380565","neighborhood":"N/A"}
+,{"objectid":"815","assetid":"323319","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"58","latitude":"39.2806580852707","longitude":"-84.3420622700138","neighborhood":"N/A"}
+,{"objectid":"816","assetid":"1389794","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"113","latitude":"39.1447988044917","longitude":"-84.5220956891002","neighborhood":"CLIFTON"}
+,{"objectid":"817","assetid":"323705","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"82","latitude":"39.2765300535806","longitude":"-84.3221355181165","neighborhood":"N/A"}
+,{"objectid":"818","assetid":"343630","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"70","latitude":"39.1159639783279","longitude":"-84.5262196729462","neighborhood":"WEST END"}
+,{"objectid":"819","assetid":"325675","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"126","latitude":"39.2539076848242","longitude":"-84.5463809357421","neighborhood":"N/A"}
+,{"objectid":"820","assetid":"336626","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"83","latitude":"39.162842485062","longitude":"-84.525641392286","neighborhood":"SPRING GROVE VILLAGE"}
+,{"objectid":"821","assetid":"460769","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"179","latitude":"39.1819407518159","longitude":"-84.6855051928935","neighborhood":"N/A"}
+,{"objectid":"822","assetid":"343850","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"77","latitude":"39.1146104706222","longitude":"-84.5305321582053","neighborhood":"WEST END"}
+,{"objectid":"823","assetid":"327684","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"77","latitude":"39.2400970573268","longitude":"-84.3558670304976","neighborhood":"N/A"}
+,{"objectid":"824","assetid":"325512","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"71","latitude":"39.2584707471674","longitude":"-84.3638896925979","neighborhood":"N/A"}
+,{"objectid":"825","assetid":"452283","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"153","latitude":"39.2895752084738","longitude":"-84.4182985985328","neighborhood":"N/A"}
+,{"objectid":"826","assetid":"334140","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"59","latitude":"39.1882333525784","longitude":"-84.3786541274862","neighborhood":"N/A"}
+,{"objectid":"827","assetid":"342591","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"52","latitude":"39.1232655496119","longitude":"-84.4778599217753","neighborhood":"EAST WALNUT HILLS"}
+,{"objectid":"828","assetid":"332112","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"63","latitude":"39.2009523446145","longitude":"-84.5734266645476","neighborhood":"MT. AIRY"}
+,{"objectid":"829","assetid":"346124","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"140","latitude":"39.0986379713319","longitude":"-84.5701250618831","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"830","assetid":"342756","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"82","latitude":"39.1219467583517","longitude":"-84.4988303443817","neighborhood":"WALNUT HILLS"}
+,{"objectid":"831","assetid":"351839","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"90","latitude":"39.2749004114691","longitude":"-84.5311313388281","neighborhood":"N/A"}
+,{"objectid":"832","assetid":"1345687","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"104","latitude":"39.1818750381481","longitude":"-84.6374607228349","neighborhood":"N/A"}
+,{"objectid":"833","assetid":"1335194","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"47","latitude":"39.2728785133991","longitude":"-84.520978621225","neighborhood":"N/A"}
+,{"objectid":"834","assetid":"472957","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"107","latitude":"39.1367581377281","longitude":"-84.5714490715115","neighborhood":"EAST WESTWOOD"}
+,{"objectid":"835","assetid":"452659","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"63","latitude":"39.2233738195773","longitude":"-84.3796216187679","neighborhood":"N/A"}
+,{"objectid":"836","assetid":"1314231","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"63","latitude":"39.114289670821","longitude":"-84.5197222447479","neighborhood":"OVER-THE-RHINE"}
+,{"objectid":"837","assetid":"335618","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"73","latitude":"39.1700861590604","longitude":"-84.6152367162729","neighborhood":"N/A"}
+,{"objectid":"838","assetid":"472821","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"85","latitude":"39.0980506713939","longitude":"-84.5328011772527","neighborhood":"QUEENSGATE"}
+,{"objectid":"839","assetid":"325421","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"68","latitude":"39.2557599642875","longitude":"-84.5750020430647","neighborhood":"N/A"}
+,{"objectid":"840","assetid":"344916","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"81","latitude":"39.1094693039456","longitude":"-84.4355598334832","neighborhood":"EAST END"}
+,{"objectid":"841","assetid":"336782","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"50","latitude":"39.159247942388","longitude":"-84.6447854387525","neighborhood":"N/A"}
+,{"objectid":"842","assetid":"343302","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"97","latitude":"39.1184443593205","longitude":"-84.4957856895895","neighborhood":"WALNUT HILLS"}
+,{"objectid":"843","assetid":"347144","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"56","latitude":"39.08710128733","longitude":"-84.6121907664239","neighborhood":"N/A"}
+,{"objectid":"844","assetid":"334295","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"65","latitude":"39.1860998693176","longitude":"-84.4228836687631","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"845","assetid":"535509","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"88","latitude":"39.1560391446928","longitude":"-84.5155572143022","neighborhood":"CLIFTON"}
+,{"objectid":"846","assetid":"321379","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"143","latitude":"39.2971875961361","longitude":"-84.4543225159374","neighborhood":"N/A"}
+,{"objectid":"847","assetid":"335241","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"158","latitude":"39.175615775271","longitude":"-84.4792057120727","neighborhood":"BOND HILL"}
+,{"objectid":"848","assetid":"344936","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"73","latitude":"39.1078159105963","longitude":"-84.5265568083013","neighborhood":"WEST END"}
+,{"objectid":"849","assetid":"342630","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"70","latitude":"39.1218500966321","longitude":"-84.5440194581281","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"850","assetid":"344380","lifecyclestatus":"AB","servicearea":"CE","staticpressure":"61","latitude":"39.1114383801238","longitude":"-84.5174071071248","neighborhood":"OVER-THE-RHINE"}
+,{"objectid":"851","assetid":"377089","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"85","latitude":"39.3580062646063","longitude":"-84.2725996525143","neighborhood":"N/A"}
+,{"objectid":"852","assetid":"346704","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.0921314289958","longitude":"-84.6155129323285","neighborhood":"N/A"}
+,{"objectid":"853","assetid":"482346","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"56","latitude":"39.3577747399856","longitude":"-84.2901336748405","neighborhood":"N/A"}
+,{"objectid":"854","assetid":"367199","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"156","latitude":"39.1557740233458","longitude":"-84.3950860922674","neighborhood":"MADISONVILLE"}
+,{"objectid":"855","assetid":"334932","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"113","latitude":"39.1790329984599","longitude":"-84.4387307666993","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"856","assetid":"2016508","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"61","latitude":"39.115067019856","longitude":"-84.6150819706342","neighborhood":"N/A"}
+,{"objectid":"857","assetid":"348041","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"96","latitude":"39.0791527334817","longitude":"-84.3663677642846","neighborhood":"N/A"}
+,{"objectid":"858","assetid":"2253921","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.1234034124863","longitude":"-84.6623809702382","neighborhood":"N/A"}
+,{"objectid":"859","assetid":"323050","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"104","latitude":"39.2792270027452","longitude":"-84.6326185106193","neighborhood":"N/A"}
+,{"objectid":"860","assetid":"336094","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"61","latitude":"39.169722594907","longitude":"-84.3844613173309","neighborhood":"N/A"}
+,{"objectid":"861","assetid":"329652","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"82","latitude":"39.2191645739037","longitude":"-84.5543633321855","neighborhood":"N/A"}
+,{"objectid":"862","assetid":"369198","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"63","latitude":"39.2386485195166","longitude":"-84.3761930717858","neighborhood":"N/A"}
+,{"objectid":"863","assetid":"561814","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"75","latitude":"39.1560229621693","longitude":"-84.5815793290302","neighborhood":"WESTWOOD"}
+,{"objectid":"864","assetid":"357850","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"62","latitude":"39.2842244874876","longitude":"-84.3724606557284","neighborhood":"N/A"}
+,{"objectid":"865","assetid":"343303","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"137","latitude":"39.1207849740017","longitude":"-84.3547840610732","neighborhood":"N/A"}
+,{"objectid":"866","assetid":"572504","lifecyclestatus":"AC","servicearea":"MR","staticpressure":"73","latitude":"39.3501820763455","longitude":"-84.2956283003318","neighborhood":"N/A"}
+,{"objectid":"867","assetid":"322050","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"75","latitude":"39.2923929943707","longitude":"-84.3258685085599","neighborhood":"N/A"}
+,{"objectid":"868","assetid":"337093","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"114","latitude":"39.1594269187696","longitude":"-84.4802958064502","neighborhood":"NORTH AVONDALE - PADDOCK HILLS"}
+,{"objectid":"869","assetid":"345856","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"211","latitude":"39.1012207629621","longitude":"-84.5547447691958","neighborhood":"EAST PRICE HILL"}
+,{"objectid":"870","assetid":"345664","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"135","latitude":"39.1056759522295","longitude":"-84.3694273294867","neighborhood":"N/A"}
+,{"objectid":"871","assetid":"559965","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"147","latitude":"39.1624565039285","longitude":"-84.4954364134276","neighborhood":"N/A"}
+,{"objectid":"872","assetid":"1351257","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"50","latitude":"39.1489492745035","longitude":"-84.5985076347431","neighborhood":"WESTWOOD"}
+,{"objectid":"873","assetid":"335695","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"128","latitude":"39.1705831113263","longitude":"-84.5425556896483","neighborhood":"NORTHSIDE"}
+,{"objectid":"874","assetid":"349258","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"107","latitude":"39.0495397282644","longitude":"-84.3661965968666","neighborhood":"N/A"}
+,{"objectid":"875","assetid":"322082","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"92","latitude":"39.2892748125522","longitude":"-84.5019250677322","neighborhood":"N/A"}
+,{"objectid":"876","assetid":"332718","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"154","latitude":"39.1980070413923","longitude":"-84.4668304609578","neighborhood":"N/A"}
+,{"objectid":"877","assetid":"374367","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"89","latitude":"39.3438865299296","longitude":"-84.3383533588294","neighborhood":"N/A"}
+,{"objectid":"878","assetid":"341172","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"80","latitude":"39.1303033262561","longitude":"-84.6338212913338","neighborhood":"N/A"}
+,{"objectid":"879","assetid":"346868","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"99","latitude":"39.0943372790198","longitude":"-84.3762596431342","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"880","assetid":"377075","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"64","latitude":"39.3680376169438","longitude":"-84.2838069305725","neighborhood":"N/A"}
+,{"objectid":"881","assetid":"348969","lifecyclestatus":"AC","servicearea":"CA","staticpressure":"81","latitude":"39.060037400253","longitude":"-84.4208132013934","neighborhood":"CALIFORNIA"}
+,{"objectid":"882","assetid":"329025","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"126","latitude":"39.2225444707726","longitude":"-84.6777050252006","neighborhood":"N/A"}
+,{"objectid":"883","assetid":"349330","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"226","latitude":"39.0355617761578","longitude":"-84.3366668473726","neighborhood":"N/A"}
+,{"objectid":"884","assetid":"326542","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"108","latitude":"39.2470642542507","longitude":"-84.5107980233817","neighborhood":"N/A"}
+,{"objectid":"885","assetid":"336495","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"193","latitude":"39.1636013593036","longitude":"-84.5576555460773","neighborhood":"MT. AIRY"}
+,{"objectid":"886","assetid":"567874","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"62","latitude":"39.1117430623411","longitude":"-84.6873126626115","neighborhood":"SAYLER PARK"}
+,{"objectid":"887","assetid":"323875","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"84","latitude":"39.2719644917362","longitude":"-84.4912584500794","neighborhood":"N/A"}
+,{"objectid":"888","assetid":"347859","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"85","latitude":"39.0825189509338","longitude":"-84.3366085755373","neighborhood":"N/A"}
+,{"objectid":"889","assetid":"336618","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"71","latitude":"39.1612251940601","longitude":"-84.6224206590552","neighborhood":"N/A"}
+,{"objectid":"890","assetid":"343834","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"63","latitude":"39.1149210522899","longitude":"-84.5189178012496","neighborhood":"OVER-THE-RHINE"}
+,{"objectid":"891","assetid":"338516","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"142","latitude":"39.150443102754","longitude":"-84.440537323904","neighborhood":"OAKLEY"}
+,{"objectid":"892","assetid":"340072","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"78","latitude":"39.1380637936936","longitude":"-84.6200999523119","neighborhood":"WESTWOOD"}
+,{"objectid":"893","assetid":"339774","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"118","latitude":"39.1427329338583","longitude":"-84.4469536127239","neighborhood":"HYDE PARK"}
+,{"objectid":"894","assetid":"525900","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"131","latitude":"39.2703698954576","longitude":"-84.4023204760836","neighborhood":"N/A"}
+,{"objectid":"895","assetid":"334916","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.1767189447892","longitude":"-84.5825207507128","neighborhood":"N/A"}
+,{"objectid":"896","assetid":"330736","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"67","latitude":"39.2136617790261","longitude":"-84.3928165012902","neighborhood":"N/A"}
+,{"objectid":"897","assetid":"364694","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"80","latitude":"39.1906005744631","longitude":"-84.6321755384739","neighborhood":"N/A"}
+,{"objectid":"898","assetid":"341659","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"182","latitude":"39.127831067315","longitude":"-84.574456621899","neighborhood":"WESTWOOD"}
+,{"objectid":"899","assetid":"411721","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"79","latitude":"39.3612623643219","longitude":"-84.3405079140977","neighborhood":"N/A"}
+,{"objectid":"900","assetid":"2004246","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"68","latitude":"39.208131095608","longitude":"-84.5556229392294","neighborhood":"COLLEGE HILL"}
+,{"objectid":"901","assetid":"363623","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"155","latitude":"39.2730103161505","longitude":"-84.4381695886651","neighborhood":"N/A"}
+,{"objectid":"902","assetid":"518699","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"84","latitude":"39.2090441951317","longitude":"-84.5784326611955","neighborhood":"N/A"}
+,{"objectid":"903","assetid":"524266","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"79","latitude":"39.0637346567609","longitude":"-84.3305327228731","neighborhood":"N/A"}
+,{"objectid":"904","assetid":"521258","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"88","latitude":"39.2187637074954","longitude":"-84.5407884633976","neighborhood":"N/A"}
+,{"objectid":"905","assetid":"558461","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"71","latitude":"39.2387714107138","longitude":"-84.4147154922611","neighborhood":"N/A"}
+,{"objectid":"906","assetid":"326150","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"86","latitude":"39.2494269434846","longitude":"-84.5790527101189","neighborhood":"N/A"}
+,{"objectid":"907","assetid":"558388","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"148","latitude":"39.1608581137464","longitude":"-84.4967733073276","neighborhood":"N/A"}
+,{"objectid":"908","assetid":"348854","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"71","latitude":"39.064669253781","longitude":"-84.3208698536816","neighborhood":"N/A"}
+,{"objectid":"909","assetid":"342386","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"60","latitude":"39.1221036462314","longitude":"-84.6184581052227","neighborhood":"N/A"}
+,{"objectid":"910","assetid":"376818","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"89","latitude":"39.3449963358225","longitude":"-84.3375123562116","neighborhood":"N/A"}
+,{"objectid":"911","assetid":"341026","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"77","latitude":"39.1332669864841","longitude":"-84.5334220894709","neighborhood":"CAMP WASHINGTON"}
+,{"objectid":"912","assetid":"2064491","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"68","latitude":"39.2115842992249","longitude":"-84.4069940024402","neighborhood":"N/A"}
+,{"objectid":"913","assetid":"326134","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"114","latitude":"39.251277649314","longitude":"-84.4796983536434","neighborhood":"N/A"}
+,{"objectid":"914","assetid":"455629","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"118","latitude":"39.1076823242932","longitude":"-84.3638571334703","neighborhood":"N/A"}
+,{"objectid":"915","assetid":"335326","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"120","latitude":"39.1756957135738","longitude":"-84.4413741004009","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"916","assetid":"1351241","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"56","latitude":"39.1473909701146","longitude":"-84.5971947245327","neighborhood":"WESTWOOD"}
+,{"objectid":"917","assetid":"323854","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"84","latitude":"39.2719073326322","longitude":"-84.5117279343762","neighborhood":"N/A"}
+,{"objectid":"918","assetid":"333716","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"97","latitude":"39.1868297885148","longitude":"-84.671264043831","neighborhood":"N/A"}
+,{"objectid":"919","assetid":"532724","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"62","latitude":"39.2309663583175","longitude":"-84.3791143519937","neighborhood":"N/A"}
+,{"objectid":"920","assetid":"553600","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"71","latitude":"39.1207305022455","longitude":"-84.5963106136922","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"921","assetid":"323331","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"151","latitude":"39.2793778635781","longitude":"-84.4107973813648","neighborhood":"N/A"}
+,{"objectid":"922","assetid":"1330291","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"126","latitude":"39.1440069752722","longitude":"-84.4869212546006","neighborhood":"AVONDALE"}
+,{"objectid":"923","assetid":"331599","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"178","latitude":"39.2065830965173","longitude":"-84.4666377455544","neighborhood":"HARTWELL"}
+,{"objectid":"924","assetid":"461728","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"74","latitude":"39.1251288338597","longitude":"-84.5948280598687","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"925","assetid":"331666","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"52","latitude":"39.2045294788762","longitude":"-84.5535773214906","neighborhood":"COLLEGE HILL"}
+,{"objectid":"926","assetid":"377486","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"97","latitude":"39.369614016823","longitude":"-84.2904741843145","neighborhood":"N/A"}
+,{"objectid":"927","assetid":"322113","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"126","latitude":"39.2895630100379","longitude":"-84.4698782546034","neighborhood":"N/A"}
+,{"objectid":"928","assetid":"334650","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"67","latitude":"39.1826820359509","longitude":"-84.4008423804751","neighborhood":"N/A"}
+,{"objectid":"929","assetid":"1353096","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"173","latitude":"39.1277874749285","longitude":"-84.5582538869663","neighborhood":"SOUTH FAIRMOUNT"}
+,{"objectid":"930","assetid":"328064","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"77","latitude":"39.2367317185777","longitude":"-84.3559069709635","neighborhood":"N/A"}
+,{"objectid":"931","assetid":"348899","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"106","latitude":"39.062865394076","longitude":"-84.3551049718466","neighborhood":"N/A"}
+,{"objectid":"932","assetid":"377509","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"60","latitude":"39.3549997986129","longitude":"-84.2853967930597","neighborhood":"N/A"}
+,{"objectid":"933","assetid":"341845","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"90","latitude":"39.1289194666585","longitude":"-84.4393542537257","neighborhood":"HYDE PARK"}
+,{"objectid":"934","assetid":"343255","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"155","latitude":"39.1196696367837","longitude":"-84.4418767391755","neighborhood":"HYDE PARK"}
+,{"objectid":"935","assetid":"516064","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"57","latitude":"39.2082756272592","longitude":"-84.395603545168","neighborhood":"N/A"}
+,{"objectid":"936","assetid":"348033","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"56","latitude":"39.0801331982142","longitude":"-84.3142231282234","neighborhood":"N/A"}
+,{"objectid":"937","assetid":"2032329","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"60","latitude":"39.1105719944463","longitude":"-84.511267121136","neighborhood":"OVER-THE-RHINE"}
+,{"objectid":"938","assetid":"329595","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"82","latitude":"39.2193404488958","longitude":"-84.572939850173","neighborhood":"N/A"}
+,{"objectid":"939","assetid":"1999512","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"79","latitude":"39.1214681208898","longitude":"-84.4505386034463","neighborhood":"EAST END"}
+,{"objectid":"940","assetid":"339529","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"66","latitude":"39.1403865991047","longitude":"-84.6490728911664","neighborhood":"N/A"}
+,{"objectid":"941","assetid":"344087","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"82","latitude":"39.1129384916228","longitude":"-84.5361124231081","neighborhood":"QUEENSGATE"}
+,{"objectid":"942","assetid":"341541","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"199","latitude":"39.1322839388768","longitude":"-84.3564337730219","neighborhood":"N/A"}
+,{"objectid":"943","assetid":"334195","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"98","latitude":"39.1849600780789","longitude":"-84.5442595182494","neighborhood":"NORTHSIDE"}
+,{"objectid":"944","assetid":"566653","lifecyclestatus":"AB","servicearea":"MN","staticpressure":"96","latitude":"39.3705447062802","longitude":"-84.2646563562689","neighborhood":"N/A"}
+,{"objectid":"945","assetid":"338175","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"73","latitude":"39.1488232684438","longitude":"-84.6569903954561","neighborhood":"N/A"}
+,{"objectid":"946","assetid":"321121","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"114","latitude":"39.2990192878552","longitude":"-84.5525093413893","neighborhood":"N/A"}
+,{"objectid":"947","assetid":"411731","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"81","latitude":"39.3624683392279","longitude":"-84.3403869029698","neighborhood":"N/A"}
+,{"objectid":"948","assetid":"488946","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"80","latitude":"39.2680560359185","longitude":"-84.5296367083709","neighborhood":"N/A"}
+,{"objectid":"949","assetid":"346599","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"123","latitude":"39.0978633246981","longitude":"-84.3489676785913","neighborhood":"N/A"}
+,{"objectid":"950","assetid":"331332","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.2075768179937","longitude":"-84.5240328795273","neighborhood":"N/A"}
+,{"objectid":"951","assetid":"337747","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"151","latitude":"39.1562039182129","longitude":"-84.3898644829363","neighborhood":"MADISONVILLE"}
+,{"objectid":"952","assetid":"340623","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"85","latitude":"39.13316990251","longitude":"-84.6892379676521","neighborhood":"N/A"}
+,{"objectid":"953","assetid":"347486","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"99","latitude":"39.0868123047215","longitude":"-84.3815913764337","neighborhood":"MT. WASHINGTON"}
+,{"objectid":"954","assetid":"329371","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"186","latitude":"39.225758970831","longitude":"-84.3203240048056","neighborhood":"N/A"}
+,{"objectid":"955","assetid":"349150","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"174","latitude":"39.0552272752245","longitude":"-84.3640147839095","neighborhood":"N/A"}
+,{"objectid":"956","assetid":"346844","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"83","latitude":"39.0899406507388","longitude":"-84.6447119272606","neighborhood":"RIVERSIDE"}
+,{"objectid":"957","assetid":"327961","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"57","latitude":"39.2374627870008","longitude":"-84.3798053913123","neighborhood":"N/A"}
+,{"objectid":"958","assetid":"323691","lifecyclestatus":"AC","servicearea":"CR","staticpressure":"104","latitude":"39.2705574536605","longitude":"-84.678699855879","neighborhood":"N/A"}
+,{"objectid":"959","assetid":"556403","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"57","latitude":"39.1560444286017","longitude":"-84.6428655929099","neighborhood":"N/A"}
+,{"objectid":"960","assetid":"416887","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"63","latitude":"39.1963726767031","longitude":"-84.5434681488466","neighborhood":"COLLEGE HILL"}
+,{"objectid":"961","assetid":"457384","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"128","latitude":"39.193772531077","longitude":"-84.6771429461852","neighborhood":"N/A"}
+,{"objectid":"962","assetid":"324628","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"59","latitude":"39.267076459889","longitude":"-84.3606873482094","neighborhood":"N/A"}
+,{"objectid":"963","assetid":"411854","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"81","latitude":"39.3608194019079","longitude":"-84.3392697508641","neighborhood":"N/A"}
+,{"objectid":"964","assetid":"327808","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"84","latitude":"39.2391305013131","longitude":"-84.3556185596218","neighborhood":"N/A"}
+,{"objectid":"965","assetid":"332337","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"155","latitude":"39.201216379379","longitude":"-84.4613113046677","neighborhood":"ROSELAWN"}
+,{"objectid":"966","assetid":"341188","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"110","latitude":"39.1313674431975","longitude":"-84.5685731165941","neighborhood":"SOUTH FAIRMOUNT"}
+,{"objectid":"967","assetid":"528602","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"83","latitude":"39.23226535134","longitude":"-84.5530540737435","neighborhood":"N/A"}
+,{"objectid":"968","assetid":"323698","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"64","latitude":"39.2723959957311","longitude":"-84.5718126156499","neighborhood":"N/A"}
+,{"objectid":"969","assetid":"322354","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"85","latitude":"39.2873564406229","longitude":"-84.4929356721539","neighborhood":"N/A"}
+,{"objectid":"970","assetid":"346639","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"67","latitude":"39.0931441629346","longitude":"-84.5978195363697","neighborhood":"N/A"}
+,{"objectid":"971","assetid":"525859","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"217","latitude":"39.2003847604771","longitude":"-84.6837976200619","neighborhood":"N/A"}
+,{"objectid":"972","assetid":"414292","lifecyclestatus":"AC","servicearea":"MN","staticpressure":"55","latitude":"39.3589520976346","longitude":"-84.3155441861779","neighborhood":"N/A"}
+,{"objectid":"973","assetid":"326567","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"118","latitude":"39.2478560910107","longitude":"-84.4578144274646","neighborhood":"N/A"}
+,{"objectid":"974","assetid":"464338","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"62","latitude":"39.138580838029","longitude":"-84.5979001570219","neighborhood":"WESTWOOD"}
+,{"objectid":"975","assetid":"333732","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"91","latitude":"39.1867989094136","longitude":"-84.667558433392","neighborhood":"N/A"}
+,{"objectid":"976","assetid":"342012","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"68","latitude":"39.1270499367908","longitude":"-84.4846004264193","neighborhood":"WALNUT HILLS"}
+,{"objectid":"977","assetid":"334808","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"76","latitude":"39.1805624332439","longitude":"-84.423058725255","neighborhood":"PLEASANT RIDGE"}
+,{"objectid":"978","assetid":"323313","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"74","latitude":"39.2781526841744","longitude":"-84.4986842016523","neighborhood":"N/A"}
+,{"objectid":"979","assetid":"321281","lifecyclestatus":"AB","servicearea":"EH","staticpressure":"139","latitude":"39.298573368422","longitude":"-84.4470955164577","neighborhood":"N/A"}
+,{"objectid":"980","assetid":"321867","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"75","latitude":"39.2908948399327","longitude":"-84.5057926157301","neighborhood":"N/A"}
+,{"objectid":"981","assetid":"334357","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"95","latitude":"39.1818483951638","longitude":"-84.6351350753275","neighborhood":"N/A"}
+,{"objectid":"982","assetid":"339733","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"57","latitude":"39.140431196327","longitude":"-84.5902444964687","neighborhood":"WESTWOOD"}
+,{"objectid":"983","assetid":"342631","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"56","latitude":"39.1206705893407","longitude":"-84.6083725369797","neighborhood":"N/A"}
+,{"objectid":"984","assetid":"348746","lifecyclestatus":"AC","servicearea":"MW","staticpressure":"58","latitude":"39.0660255900607","longitude":"-84.3773063800325","neighborhood":"N/A"}
+,{"objectid":"985","assetid":"334142","lifecyclestatus":"AB","servicearea":"WH","staticpressure":"102","latitude":"39.1827036495102","longitude":"-84.6934371808354","neighborhood":"N/A"}
+,{"objectid":"986","assetid":"344880","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"69","latitude":"39.1067914348244","longitude":"-84.5999776570485","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"987","assetid":"1991783","lifecyclestatus":"AC","servicearea":"CE","staticpressure":"78","latitude":"39.1602675124172","longitude":"-84.5416565077887","neighborhood":"NORTHSIDE"}
+,{"objectid":"988","assetid":"322224","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"41","latitude":"39.2905575593871","longitude":"-84.3626097979817","neighborhood":"N/A"}
+,{"objectid":"989","assetid":"2016588","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"70","latitude":"39.1163442592491","longitude":"-84.6139943701393","neighborhood":"WEST PRICE HILL"}
+,{"objectid":"990","assetid":"341840","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"56","latitude":"39.1279762265719","longitude":"-84.495663511393","neighborhood":"WALNUT HILLS"}
+,{"objectid":"991","assetid":"327870","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"172","latitude":"39.23951367282","longitude":"-84.3007647184147","neighborhood":"N/A"}
+,{"objectid":"992","assetid":"329305","lifecyclestatus":"AC","servicearea":"WH","staticpressure":"94","latitude":"39.2232626847309","longitude":"-84.5066361717358","neighborhood":"N/A"}
+,{"objectid":"993","assetid":"323177","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"56","latitude":"39.2823678293367","longitude":"-84.3454014521072","neighborhood":"N/A"}
+,{"objectid":"994","assetid":"555315","lifecyclestatus":"AC","servicearea":"MS","staticpressure":"85","latitude":"39.3412804647363","longitude":"-84.337374737509","neighborhood":"N/A"}
+,{"objectid":"995","assetid":"349333","lifecyclestatus":"AC","servicearea":"CG","staticpressure":"232","latitude":"39.0349247331535","longitude":"-84.3341281835663","neighborhood":"N/A"}
+,{"objectid":"996","assetid":"332090","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"153","latitude":"39.2030829239364","longitude":"-84.4599733027755","neighborhood":"ROSELAWN"}
+,{"objectid":"997","assetid":"553308","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"61","latitude":"39.205145025694","longitude":"-84.3970257673459","neighborhood":"N/A"}
+,{"objectid":"998","assetid":"2252120","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"168","latitude":"39.1687928706954","longitude":"-84.5406214129507","neighborhood":"NORTHSIDE"}
+,{"objectid":"999","assetid":"333108","lifecyclestatus":"AC","servicearea":"BR","staticpressure":"59","latitude":"39.1960363321547","longitude":"-84.4002532113988","neighborhood":"N/A"}
+,{"objectid":"1000","assetid":"1335236","lifecyclestatus":"AC","servicearea":"EH","staticpressure":"70","latitude":"39.2720313047633","longitude":"-84.5184995087049","neighborhood":"N/A"}]
